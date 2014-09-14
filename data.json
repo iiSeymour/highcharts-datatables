@@ -1,0 +1,8612 @@
+[
+  {
+    "date":"Tue Oct 29 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":87,
+    "home":"Indiana Pacers",
+    "home points":97
+  },
+  {
+    "date":"Tue Oct 29 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":103,
+    "home":"Los Angeles Lakers",
+    "home points":116
+  },
+  {
+    "date":"Tue Oct 29 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":95,
+    "home":"Miami Heat",
+    "home points":107
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":94,
+    "home":"Cleveland Cavaliers",
+    "home points":98
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":109,
+    "home":"Dallas Mavericks",
+    "home points":118
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":102,
+    "home":"Detroit Pistons",
+    "home points":113
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":94,
+    "home":"Golden State Warriors",
+    "home points":125
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":83,
+    "home":"Houston Rockets",
+    "home points":96
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":115,
+    "home":"Minnesota Timberwolves",
+    "home points":120
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":95,
+    "home":"New Orleans Pelicans",
+    "home points":90
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":83,
+    "home":"New York Knicks",
+    "home points":90
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Miami Heat",
+    "visitor points":110,
+    "home":"Philadelphia 76ers",
+    "home points":114
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":91,
+    "home":"Phoenix Suns",
+    "home points":104
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":88,
+    "home":"Sacramento Kings",
+    "home points":90
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":94,
+    "home":"San Antonio Spurs",
+    "home points":101
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":87,
+    "home":"Toronto Raptors",
+    "home points":93
+  },
+  {
+    "date":"Wed Oct 30 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":101,
+    "home":"Utah Jazz",
+    "home points":98
+  },
+  {
+    "date":"Thu Oct 31 2013",
+    "visitor":"New York Knicks",
+    "visitor points":81,
+    "home":"Chicago Bulls",
+    "home points":82
+  },
+  {
+    "date":"Thu Oct 31 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":115,
+    "home":"Los Angeles Clippers",
+    "home points":126
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":95,
+    "home":"Atlanta Hawks",
+    "home points":102
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":105,
+    "home":"Boston Celtics",
+    "home points":98
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Miami Heat",
+    "visitor points":100,
+    "home":"Brooklyn Nets",
+    "home points":101
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":84,
+    "home":"Charlotte Bobcats",
+    "home points":90
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":113,
+    "home":"Denver Nuggets",
+    "home points":98
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":105,
+    "home":"Houston Rockets",
+    "home points":113
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":91,
+    "home":"Los Angeles Lakers",
+    "home points":85
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":108,
+    "home":"Memphis Grizzlies",
+    "home points":111
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":81,
+    "home":"Minnesota Timberwolves",
+    "home points":100
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":90,
+    "home":"Orlando Magic",
+    "home points":110
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":84,
+    "home":"Phoenix Suns",
+    "home points":87
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":110,
+    "home":"Sacramento Kings",
+    "home points":101
+  },
+  {
+    "date":"Fri Nov 1 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":109,
+    "home":"Washington Wizards",
+    "home points":102
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":99,
+    "home":"Dallas Mavericks",
+    "home points":111
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":87,
+    "home":"Golden State Warriors",
+    "home points":98
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":74,
+    "home":"Indiana Pacers",
+    "home points":89
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":97,
+    "home":"Milwaukee Bucks",
+    "home points":90
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":84,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":104,
+    "home":"Philadelphia 76ers",
+    "home points":107
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":105,
+    "home":"Portland Trail Blazers",
+    "home points":115
+  },
+  {
+    "date":"Sat Nov 2 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":104,
+    "home":"Utah Jazz",
+    "home points":93
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":77,
+    "home":"Detroit Pistons",
+    "home points":87
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":103,
+    "home":"Los Angeles Lakers",
+    "home points":105
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":93,
+    "home":"Miami Heat",
+    "home points":103
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":109,
+    "home":"New York Knicks",
+    "home points":100
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":96,
+    "home":"Oklahoma City Thunder",
+    "home points":103
+  },
+  {
+    "date":"Sun Nov 3 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":86,
+    "home":"Orlando Magic",
+    "home points":107
+  },
+  {
+    "date":"Mon Nov 4 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":92,
+    "home":"Cleveland Cavaliers",
+    "home points":93
+  },
+  {
+    "date":"Mon Nov 4 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":118,
+    "home":"Los Angeles Clippers",
+    "home points":137
+  },
+  {
+    "date":"Mon Nov 4 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":88,
+    "home":"Memphis Grizzlies",
+    "home points":95
+  },
+  {
+    "date":"Mon Nov 4 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":110,
+    "home":"Philadelphia 76ers",
+    "home points":90
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":88,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":104,
+    "home":"Dallas Mavericks",
+    "home points":123
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":102,
+    "home":"Denver Nuggets",
+    "home points":94
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":99,
+    "home":"Detroit Pistons",
+    "home points":91
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"New Orleans Pelicans",
+    "home points":98
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":102,
+    "home":"New York Knicks",
+    "home points":97
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":116,
+    "home":"Portland Trail Blazers",
+    "home points":101
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":105,
+    "home":"Sacramento Kings",
+    "home points":100
+  },
+  {
+    "date":"Tue Nov 5 2013",
+    "visitor":"Miami Heat",
+    "visitor points":104,
+    "home":"Toronto Raptors",
+    "home points":95
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":87,
+    "home":"Boston Celtics",
+    "home points":97
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":90,
+    "home":"Charlotte Bobcats",
+    "home points":92
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":80,
+    "home":"Indiana Pacers",
+    "home points":97
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":99,
+    "home":"Memphis Grizzlies",
+    "home points":84
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":104,
+    "home":"Milwaukee Bucks",
+    "home points":109
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":106,
+    "home":"Minnesota Timberwolves",
+    "home points":93
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":93,
+    "home":"Oklahoma City Thunder",
+    "home points":107
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":90,
+    "home":"Orlando Magic",
+    "home points":98
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":116,
+    "home":"Philadelphia 76ers",
+    "home points":102
+  },
+  {
+    "date":"Wed Nov 6 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":96,
+    "home":"San Antonio Spurs",
+    "home points":99
+  },
+  {
+    "date":"Thu Nov 7 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":107,
+    "home":"Denver Nuggets",
+    "home points":109
+  },
+  {
+    "date":"Thu Nov 7 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":99,
+    "home":"Houston Rockets",
+    "home points":98
+  },
+  {
+    "date":"Thu Nov 7 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":97,
+    "home":"Miami Heat",
+    "home points":102
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"New York Knicks",
+    "visitor points":101,
+    "home":"Charlotte Bobcats",
+    "home points":91
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":73,
+    "home":"Chicago Bulls",
+    "home points":97
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":119,
+    "home":"Detroit Pistons",
+    "home points":110
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":84,
+    "home":"Indiana Pacers",
+    "home points":91
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":108,
+    "home":"Minnesota Timberwolves",
+    "home points":116
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":85,
+    "home":"New Orleans Pelicans",
+    "home points":96
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":91,
+    "home":"Orlando Magic",
+    "home points":89
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":79,
+    "home":"Philadelphia 76ers",
+    "home points":94
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":103,
+    "home":"Phoenix Suns",
+    "home points":114
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":91,
+    "home":"Portland Trail Blazers",
+    "home points":104
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":74,
+    "home":"San Antonio Spurs",
+    "home points":76
+  },
+  {
+    "date":"Fri Nov 8 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":108,
+    "home":"Washington Wizards",
+    "home points":112
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":94,
+    "home":"Atlanta Hawks",
+    "home points":104
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":96,
+    "home":"Brooklyn Nets",
+    "home points":91
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":125,
+    "home":"Cleveland Cavaliers",
+    "home points":127
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":107,
+    "home":"Houston Rockets",
+    "home points":94
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":90,
+    "home":"Memphis Grizzlies",
+    "home points":108
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":111,
+    "home":"Miami Heat",
+    "home points":110
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":91,
+    "home":"Milwaukee Bucks",
+    "home points":83
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":96,
+    "home":"Sacramento Kings",
+    "home points":85
+  },
+  {
+    "date":"Sat Nov 9 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":91,
+    "home":"Toronto Raptors",
+    "home points":115
+  },
+  {
+    "date":"Sun Nov 10 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":113,
+    "home":"Los Angeles Lakers",
+    "home points":90
+  },
+  {
+    "date":"Sun Nov 10 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":120,
+    "home":"New York Knicks",
+    "home points":89
+  },
+  {
+    "date":"Sun Nov 10 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":105,
+    "home":"Oklahoma City Thunder",
+    "home points":106
+  },
+  {
+    "date":"Sun Nov 10 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":94,
+    "home":"Phoenix Suns",
+    "home points":101
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":105,
+    "home":"Boston Celtics",
+    "home points":120
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":103,
+    "home":"Charlotte Bobcats",
+    "home points":94
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":81,
+    "home":"Chicago Bulls",
+    "home points":96
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":104,
+    "home":"Houston Rockets",
+    "home points":110
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":79,
+    "home":"Indiana Pacers",
+    "home points":95
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":107,
+    "home":"Los Angeles Clippers",
+    "home points":109
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":109,
+    "home":"Philadelphia 76ers",
+    "home points":85
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":103,
+    "home":"Portland Trail Blazers",
+    "home points":109
+  },
+  {
+    "date":"Mon Nov 11 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":100,
+    "home":"Utah Jazz",
+    "home points":81
+  },
+  {
+    "date":"Tue Nov 12 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":95,
+    "home":"Dallas Mavericks",
+    "home points":105
+  },
+  {
+    "date":"Tue Nov 12 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":95,
+    "home":"Golden State Warriors",
+    "home points":113
+  },
+  {
+    "date":"Tue Nov 12 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":95,
+    "home":"Los Angeles Lakers",
+    "home points":116
+  },
+  {
+    "date":"Tue Nov 12 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":95,
+    "home":"Miami Heat",
+    "home points":118
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"New York Knicks",
+    "visitor points":95,
+    "home":"Atlanta Hawks",
+    "home points":91
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":89,
+    "home":"Boston Celtics",
+    "home points":83
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":99,
+    "home":"Denver Nuggets",
+    "home points":111
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":103,
+    "home":"Los Angeles Clippers",
+    "home points":111
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":103,
+    "home":"Memphis Grizzlies",
+    "home points":87
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":95,
+    "home":"Minnesota Timberwolves",
+    "home points":124
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":91,
+    "home":"Orlando Magic",
+    "home points":94
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":117,
+    "home":"Philadelphia 76ers",
+    "home points":123
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":89,
+    "home":"Portland Trail Blazers",
+    "home points":90
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":86,
+    "home":"Sacramento Kings",
+    "home points":107
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":79,
+    "home":"San Antonio Spurs",
+    "home points":92
+  },
+  {
+    "date":"Wed Nov 13 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":105,
+    "home":"Utah Jazz",
+    "home points":111
+  },
+  {
+    "date":"Thu Nov 14 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":115,
+    "home":"Golden State Warriors",
+    "home points":116
+  },
+  {
+    "date":"Thu Nov 14 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":109,
+    "home":"New York Knicks",
+    "home points":106
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":103,
+    "home":"Atlanta Hawks",
+    "home points":113
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":109,
+    "home":"Boston Celtics",
+    "home points":96
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":86,
+    "home":"Cleveland Cavaliers",
+    "home points":80
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":113,
+    "home":"Denver Nuggets",
+    "home points":117
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":77,
+    "home":"Indiana Pacers",
+    "home points":104
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":89,
+    "home":"Los Angeles Lakers",
+    "home points":86
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":104,
+    "home":"Miami Heat",
+    "home points":110
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":100,
+    "home":"Phoenix Suns",
+    "home points":98
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":97,
+    "home":"Sacramento Kings",
+    "home points":90
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":96,
+    "home":"Toronto Raptors",
+    "home points":80
+  },
+  {
+    "date":"Fri Nov 15 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":91,
+    "home":"Utah Jazz",
+    "home points":82
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Miami Heat",
+    "visitor points":97,
+    "home":"Charlotte Bobcats",
+    "home points":81
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":94,
+    "home":"Chicago Bulls",
+    "home points":110
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":88,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":111,
+    "home":"Houston Rockets",
+    "home points":122
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":103,
+    "home":"Los Angeles Clippers",
+    "home points":110
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":92,
+    "home":"Milwaukee Bucks",
+    "home points":79
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":88,
+    "home":"Minnesota Timberwolves",
+    "home points":106
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":98,
+    "home":"New Orleans Pelicans",
+    "home points":135
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":110,
+    "home":"New York Knicks",
+    "home points":90
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":108,
+    "home":"Orlando Magic",
+    "home points":100
+  },
+  {
+    "date":"Sat Nov 16 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":103,
+    "home":"Washington Wizards",
+    "home points":96
+  },
+  {
+    "date":"Sun Nov 17 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":99,
+    "home":"Los Angeles Lakers",
+    "home points":114
+  },
+  {
+    "date":"Sun Nov 17 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":97,
+    "home":"Sacramento Kings",
+    "home points":86
+  },
+  {
+    "date":"Sun Nov 17 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":118,
+    "home":"Toronto Raptors",
+    "home points":110
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":108,
+    "home":"Brooklyn Nets",
+    "home points":98
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":81,
+    "home":"Chicago Bulls",
+    "home points":86
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":94,
+    "home":"Dallas Mavericks",
+    "home points":97
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":106,
+    "home":"Los Angeles Clippers",
+    "home points":102
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":113,
+    "home":"Oklahoma City Thunder",
+    "home points":115
+  },
+  {
+    "date":"Mon Nov 18 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":98,
+    "home":"Utah Jazz",
+    "home points":87
+  },
+  {
+    "date":"Tue Nov 19 2013",
+    "visitor":"New York Knicks",
+    "visitor points":86,
+    "home":"Detroit Pistons",
+    "home points":92
+  },
+  {
+    "date":"Tue Nov 19 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":85,
+    "home":"Houston Rockets",
+    "home points":109
+  },
+  {
+    "date":"Tue Nov 19 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":88,
+    "home":"Miami Heat",
+    "home points":104
+  },
+  {
+    "date":"Tue Nov 19 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"Sacramento Kings",
+    "home points":107
+  },
+  {
+    "date":"Tue Nov 19 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":100,
+    "home":"Washington Wizards",
+    "home points":104
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":85,
+    "home":"Atlanta Hawks",
+    "home points":93
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":91,
+    "home":"Charlotte Bobcats",
+    "home points":95
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":98,
+    "home":"Cleveland Cavaliers",
+    "home points":91
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":120,
+    "home":"Dallas Mavericks",
+    "home points":123
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":88,
+    "home":"Golden State Warriors",
+    "home points":81
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":91,
+    "home":"Milwaukee Bucks",
+    "home points":82
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":102,
+    "home":"Minnesota Timberwolves",
+    "home points":98
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":98,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":103,
+    "home":"New York Knicks",
+    "home points":96
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Miami Heat",
+    "visitor points":120,
+    "home":"Orlando Magic",
+    "home points":92
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":108,
+    "home":"Philadelphia 76ers",
+    "home points":98
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":113,
+    "home":"Phoenix Suns",
+    "home points":106
+  },
+  {
+    "date":"Wed Nov 20 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":93,
+    "home":"San Antonio Spurs",
+    "home points":104
+  },
+  {
+    "date":"Thu Nov 21 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":87,
+    "home":"Denver Nuggets",
+    "home points":97
+  },
+  {
+    "date":"Thu Nov 21 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":91,
+    "home":"Oklahoma City Thunder",
+    "home points":105
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":97,
+    "home":"Boston Celtics",
+    "home points":82
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":98,
+    "home":"Charlotte Bobcats",
+    "home points":91
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":93,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":96,
+    "home":"Detroit Pistons",
+    "home points":89
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":95,
+    "home":"Los Angeles Lakers",
+    "home points":102
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":102,
+    "home":"Memphis Grizzlies",
+    "home points":86
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":81,
+    "home":"Minnesota Timberwolves",
+    "home points":111
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":100,
+    "home":"New Orleans Pelicans",
+    "home points":104
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":107,
+    "home":"Philadelphia 76ers",
+    "home points":115
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":95,
+    "home":"Portland Trail Blazers",
+    "home points":98
+  },
+  {
+    "date":"Fri Nov 22 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":88,
+    "home":"Toronto Raptors",
+    "home points":96
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":94,
+    "home":"Atlanta Hawks",
+    "home points":87
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":100,
+    "home":"Denver Nuggets",
+    "home points":102
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":113,
+    "home":"Golden State Warriors",
+    "home points":101
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":101,
+    "home":"Houston Rockets",
+    "home points":112
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":98,
+    "home":"Indiana Pacers",
+    "home points":106
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":102,
+    "home":"Los Angeles Clippers",
+    "home points":103
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":99,
+    "home":"Miami Heat",
+    "home points":101
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":96,
+    "home":"Milwaukee Bucks",
+    "home points":72
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":96,
+    "home":"San Antonio Spurs",
+    "home points":126
+  },
+  {
+    "date":"Sat Nov 23 2013",
+    "visitor":"New York Knicks",
+    "visitor points":89,
+    "home":"Washington Wizards",
+    "home points":98
+  },
+  {
+    "date":"Sun Nov 24 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":109,
+    "home":"Brooklyn Nets",
+    "home points":97
+  },
+  {
+    "date":"Sun Nov 24 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":82,
+    "home":"Los Angeles Clippers",
+    "home points":121
+  },
+  {
+    "date":"Sun Nov 24 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":86,
+    "home":"Los Angeles Lakers",
+    "home points":100
+  },
+  {
+    "date":"Sun Nov 24 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":73,
+    "home":"Oklahoma City Thunder",
+    "home points":95
+  },
+  {
+    "date":"Sun Nov 24 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"Orlando Magic",
+    "home points":96
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":96,
+    "home":"Charlotte Bobcats",
+    "home points":86
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":110,
+    "home":"Dallas Mavericks",
+    "home points":96
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":94,
+    "home":"Detroit Pistons",
+    "home points":113
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":84,
+    "home":"Indiana Pacers",
+    "home points":98
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":93,
+    "home":"Memphis Grizzlies",
+    "home points":86
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":92,
+    "home":"Miami Heat",
+    "home points":107
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"New York Knicks",
+    "visitor points":91,
+    "home":"Portland Trail Blazers",
+    "home points":102
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":93,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Mon Nov 25 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":83,
+    "home":"Utah Jazz",
+    "home points":89
+  },
+  {
+    "date":"Tue Nov 26 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":109,
+    "home":"Atlanta Hawks",
+    "home points":92
+  },
+  {
+    "date":"Tue Nov 26 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":102,
+    "home":"New Orleans Pelicans",
+    "home points":101
+  },
+  {
+    "date":"Tue Nov 26 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":102,
+    "home":"Toronto Raptors",
+    "home points":100
+  },
+  {
+    "date":"Tue Nov 26 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":111,
+    "home":"Washington Wizards",
+    "home points":116
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":100,
+    "home":"Boston Celtics",
+    "home points":93
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":99,
+    "home":"Brooklyn Nets",
+    "home points":94
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":99,
+    "home":"Charlotte Bobcats",
+    "home points":74
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Miami Heat",
+    "visitor points":95,
+    "home":"Cleveland Cavaliers",
+    "home points":84
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":99,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":99,
+    "home":"Detroit Pistons",
+    "home points":79
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":84,
+    "home":"Houston Rockets",
+    "home points":113
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"New York Knicks",
+    "visitor points":80,
+    "home":"Los Angeles Clippers",
+    "home points":93
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":100,
+    "home":"Milwaukee Bucks",
+    "home points":92
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":117,
+    "home":"Minnesota Timberwolves",
+    "home points":110
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":88,
+    "home":"Oklahoma City Thunder",
+    "home points":94
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":94,
+    "home":"Orlando Magic",
+    "home points":105
+  },
+  {
+    "date":"Wed Nov 27 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":106,
+    "home":"Phoenix Suns",
+    "home points":120
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":87,
+    "home":"Atlanta Hawks",
+    "home points":88
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":86,
+    "home":"Boston Celtics",
+    "home points":103
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":76,
+    "home":"Charlotte Bobcats",
+    "home points":92
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"New York Knicks",
+    "visitor points":95,
+    "home":"Denver Nuggets",
+    "home points":97
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":106,
+    "home":"Detroit Pistons",
+    "home points":102
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":95,
+    "home":"Houston Rockets",
+    "home points":114
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":73,
+    "home":"Indiana Pacers",
+    "home points":93
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":112,
+    "home":"Oklahoma City Thunder",
+    "home points":113
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":109,
+    "home":"Orlando Magic",
+    "home points":91
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":121,
+    "home":"Philadelphia 76ers",
+    "home points":105
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":104,
+    "home":"Sacramento Kings",
+    "home points":98
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Miami Heat",
+    "visitor points":90,
+    "home":"Toronto Raptors",
+    "home points":83
+  },
+  {
+    "date":"Fri Nov 29 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":112,
+    "home":"Utah Jazz",
+    "home points":101
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":93,
+    "home":"Cleveland Cavaliers",
+    "home points":97
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":112,
+    "home":"Dallas Mavericks",
+    "home points":106
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":97,
+    "home":"Memphis Grizzlies",
+    "home points":88
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":85,
+    "home":"Milwaukee Bucks",
+    "home points":92
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":112,
+    "home":"Phoenix Suns",
+    "home points":104
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":112,
+    "home":"San Antonio Spurs",
+    "home points":106
+  },
+  {
+    "date":"Sat Nov 30 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":101,
+    "home":"Washington Wizards",
+    "home points":108
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":100,
+    "home":"Detroit Pistons",
+    "home points":115
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":105,
+    "home":"Los Angeles Clippers",
+    "home points":100
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":114,
+    "home":"Los Angeles Lakers",
+    "home points":108
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":98,
+    "home":"Miami Heat",
+    "home points":99
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":103,
+    "home":"New York Knicks",
+    "home points":99
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":103,
+    "home":"Oklahoma City Thunder",
+    "home points":113
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":115,
+    "home":"Sacramento Kings",
+    "home points":113
+  },
+  {
+    "date":"Sun Dec 1 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":112,
+    "home":"Toronto Raptors",
+    "home points":98
+  },
+  {
+    "date":"Mon Dec 2 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":131,
+    "home":"Chicago Bulls",
+    "home points":128
+  },
+  {
+    "date":"Mon Dec 2 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":102,
+    "home":"Portland Trail Blazers",
+    "home points":106
+  },
+  {
+    "date":"Mon Dec 2 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":100,
+    "home":"San Antonio Spurs",
+    "home points":102
+  },
+  {
+    "date":"Mon Dec 2 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":103,
+    "home":"Utah Jazz",
+    "home points":109
+  },
+  {
+    "date":"Mon Dec 2 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":80,
+    "home":"Washington Wizards",
+    "home points":98
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":100,
+    "home":"Boston Celtics",
+    "home points":108
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":111,
+    "home":"Brooklyn Nets",
+    "home points":87
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":82,
+    "home":"Dallas Mavericks",
+    "home points":89
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":103,
+    "home":"Golden State Warriors",
+    "home points":112
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":91,
+    "home":"Memphis Grizzlies",
+    "home points":110
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":107,
+    "home":"Miami Heat",
+    "home points":97
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":125,
+    "home":"Philadelphia 76ers",
+    "home points":126
+  },
+  {
+    "date":"Tue Dec 3 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":97,
+    "home":"Sacramento Kings",
+    "home points":95
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":97,
+    "home":"Atlanta Hawks",
+    "home points":107
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":88,
+    "home":"Cleveland Cavaliers",
+    "home points":98
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":97,
+    "home":"Houston Rockets",
+    "home points":88
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":105,
+    "home":"Milwaukee Bucks",
+    "home points":98
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":100,
+    "home":"New Orleans Pelicans",
+    "home points":97
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":111
+  },
+  {
+    "date":"Wed Dec 4 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":95,
+    "home":"Utah Jazz",
+    "home points":86
+  },
+  {
+    "date":"Thu Dec 5 2013",
+    "visitor":"New York Knicks",
+    "visitor points":113,
+    "home":"Brooklyn Nets",
+    "home points":83
+  },
+  {
+    "date":"Thu Dec 5 2013",
+    "visitor":"Miami Heat",
+    "visitor points":87,
+    "home":"Chicago Bulls",
+    "home points":107
+  },
+  {
+    "date":"Thu Dec 5 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":101,
+    "home":"Memphis Grizzlies",
+    "home points":81
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":89,
+    "home":"Atlanta Hawks",
+    "home points":108
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":98,
+    "home":"Boston Celtics",
+    "home points":106
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":88,
+    "home":"Charlotte Bobcats",
+    "home points":105
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":83,
+    "home":"Houston Rockets",
+    "home points":105
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":109,
+    "home":"New Orleans Pelicans",
+    "home points":95
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":83,
+    "home":"New York Knicks",
+    "home points":121
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":97,
+    "home":"Phoenix Suns",
+    "home points":106
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":98,
+    "home":"Portland Trail Blazers",
+    "home points":130
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":106,
+    "home":"Sacramento Kings",
+    "home points":100
+  },
+  {
+    "date":"Fri Dec 6 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":109,
+    "home":"Washington Wizards",
+    "home points":105
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":92,
+    "home":"Chicago Bulls",
+    "home points":75
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":82,
+    "home":"Cleveland Cavaliers",
+    "home points":88
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":108,
+    "home":"Memphis Grizzlies",
+    "home points":82
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":90,
+    "home":"Milwaukee Bucks",
+    "home points":82
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Miami Heat",
+    "visitor points":103,
+    "home":"Minnesota Timberwolves",
+    "home points":82
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":103,
+    "home":"Philadelphia 76ers",
+    "home points":92
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":108,
+    "home":"Portland Trail Blazers",
+    "home points":106
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":111,
+    "home":"San Antonio Spurs",
+    "home points":100
+  },
+  {
+    "date":"Sat Dec 7 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":112,
+    "home":"Utah Jazz",
+    "home points":102
+  },
+  {
+    "date":"Sun Dec 8 2013",
+    "visitor":"Miami Heat",
+    "visitor points":110,
+    "home":"Detroit Pistons",
+    "home points":95
+  },
+  {
+    "date":"Sun Dec 8 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":88,
+    "home":"Houston Rockets",
+    "home points":98
+  },
+  {
+    "date":"Sun Dec 8 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":106,
+    "home":"Los Angeles Lakers",
+    "home points":94
+  },
+  {
+    "date":"Sun Dec 8 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":114,
+    "home":"New York Knicks",
+    "home points":73
+  },
+  {
+    "date":"Sun Dec 8 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":94,
+    "home":"Oklahoma City Thunder",
+    "home points":118
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":111,
+    "home":"Charlotte Bobcats",
+    "home points":115
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":85,
+    "home":"Memphis Grizzlies",
+    "home points":94
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":94,
+    "home":"Philadelphia 76ers",
+    "home points":83
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":97,
+    "home":"Sacramento Kings",
+    "home points":112
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":105,
+    "home":"Utah Jazz",
+    "home points":94
+  },
+  {
+    "date":"Mon Dec 9 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":75,
+    "home":"Washington Wizards",
+    "home points":74
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":101,
+    "home":"Atlanta Hawks",
+    "home points":92
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":96,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":78,
+    "home":"Chicago Bulls",
+    "home points":74
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"New York Knicks",
+    "visitor points":94,
+    "home":"Cleveland Cavaliers",
+    "home points":109
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":121,
+    "home":"Detroit Pistons",
+    "home points":94
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Miami Heat",
+    "visitor points":84,
+    "home":"Indiana Pacers",
+    "home points":90
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":114,
+    "home":"Los Angeles Lakers",
+    "home points":108
+  },
+  {
+    "date":"Tue Dec 10 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":116,
+    "home":"Toronto Raptors",
+    "home points":103
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":96,
+    "home":"Boston Celtics",
+    "home points":88
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":92,
+    "home":"Charlotte Bobcats",
+    "home points":83
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":93,
+    "home":"Golden State Warriors",
+    "home points":95
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":116,
+    "home":"Memphis Grizzlies",
+    "home points":100
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":109,
+    "home":"Milwaukee Bucks",
+    "home points":77
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":99,
+    "home":"Minnesota Timberwolves",
+    "home points":106
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":106,
+    "home":"New Orleans Pelicans",
+    "home points":111
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":78,
+    "home":"New York Knicks",
+    "home points":83
+  },
+  {
+    "date":"Wed Dec 11 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":122,
+    "home":"Sacramento Kings",
+    "home points":101
+  },
+  {
+    "date":"Thu Dec 12 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":93,
+    "home":"Brooklyn Nets",
+    "home points":102
+  },
+  {
+    "date":"Thu Dec 12 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":111
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":99,
+    "home":"Atlanta Hawks",
+    "home points":101
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"New York Knicks",
+    "visitor points":86,
+    "home":"Boston Celtics",
+    "home points":90
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":103,
+    "home":"Denver Nuggets",
+    "home points":93
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":99,
+    "home":"Detroit Pistons",
+    "home points":103
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":116,
+    "home":"Golden State Warriors",
+    "home points":112
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":94,
+    "home":"Indiana Pacers",
+    "home points":99
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":91,
+    "home":"Milwaukee Bucks",
+    "home points":90
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":98,
+    "home":"New Orleans Pelicans",
+    "home points":104
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":97,
+    "home":"Oklahoma City Thunder",
+    "home points":122
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":109,
+    "home":"Orlando Magic",
+    "home points":100
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":107,
+    "home":"Phoenix Suns",
+    "home points":116
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":110,
+    "home":"San Antonio Spurs",
+    "home points":117
+  },
+  {
+    "date":"Fri Dec 13 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":100,
+    "home":"Toronto Raptors",
+    "home points":108
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":88,
+    "home":"Charlotte Bobcats",
+    "home points":85
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":99,
+    "home":"Chicago Bulls",
+    "home points":77
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":93,
+    "home":"Dallas Mavericks",
+    "home points":106
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":107,
+    "home":"Miami Heat",
+    "home points":114
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":106,
+    "home":"New York Knicks",
+    "home points":111
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":139,
+    "home":"Philadelphia 76ers",
+    "home points":105
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":100,
+    "home":"Utah Jazz",
+    "home points":84
+  },
+  {
+    "date":"Sat Dec 14 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":113,
+    "home":"Washington Wizards",
+    "home points":97
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":93,
+    "home":"Denver Nuggets",
+    "home points":102
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":111,
+    "home":"Detroit Pistons",
+    "home points":109
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":101,
+    "home":"Memphis Grizzlies",
+    "home points":93
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":98,
+    "home":"Oklahoma City Thunder",
+    "home points":101
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":102,
+    "home":"Phoenix Suns",
+    "home points":106
+  },
+  {
+    "date":"Sun Dec 15 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":91,
+    "home":"Sacramento Kings",
+    "home points":106
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":100,
+    "home":"Atlanta Hawks",
+    "home points":114
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":97,
+    "home":"Boston Celtics",
+    "home points":101
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":94,
+    "home":"Brooklyn Nets",
+    "home points":130
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Orlando Magic",
+    "visitor points":83,
+    "home":"Chicago Bulls",
+    "home points":82
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":101,
+    "home":"Indiana Pacers",
+    "home points":96
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":92,
+    "home":"Los Angeles Clippers",
+    "home points":115
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":94,
+    "home":"Miami Heat",
+    "home points":117
+  },
+  {
+    "date":"Mon Dec 16 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":102,
+    "home":"New York Knicks",
+    "home points":101
+  },
+  {
+    "date":"Tue Dec 17 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":87,
+    "home":"Charlotte Bobcats",
+    "home points":95
+  },
+  {
+    "date":"Tue Dec 17 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":119,
+    "home":"Cleveland Cavaliers",
+    "home points":116
+  },
+  {
+    "date":"Tue Dec 17 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":105,
+    "home":"Denver Nuggets",
+    "home points":93
+  },
+  {
+    "date":"Tue Dec 17 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":93,
+    "home":"Golden State Warriors",
+    "home points":104
+  },
+  {
+    "date":"Tue Dec 17 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":96,
+    "home":"Memphis Grizzlies",
+    "home points":92
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":107,
+    "home":"Atlanta Hawks",
+    "home points":124
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":107,
+    "home":"Boston Celtics",
+    "home points":106
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":113,
+    "home":"Brooklyn Nets",
+    "home points":107
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":91,
+    "home":"Dallas Mavericks",
+    "home points":105
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":94,
+    "home":"Houston Rockets",
+    "home points":109
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":95,
+    "home":"Los Angeles Clippers",
+    "home points":108
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":94,
+    "home":"Miami Heat",
+    "home points":97
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"New York Knicks",
+    "visitor points":107,
+    "home":"Milwaukee Bucks",
+    "home points":101
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":109,
+    "home":"Minnesota Timberwolves",
+    "home points":120
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":86,
+    "home":"Orlando Magic",
+    "home points":82
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":108,
+    "home":"Phoenix Suns",
+    "home points":101
+  },
+  {
+    "date":"Wed Dec 18 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":104,
+    "home":"Toronto Raptors",
+    "home points":102
+  },
+  {
+    "date":"Thu Dec 19 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":104,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Thu Dec 19 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":95,
+    "home":"Oklahoma City Thunder",
+    "home points":107
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":85,
+    "home":"Atlanta Hawks",
+    "home points":118
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":111,
+    "home":"Cleveland Cavaliers",
+    "home points":114
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":109,
+    "home":"Dallas Mavericks",
+    "home points":108
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":103,
+    "home":"Denver Nuggets",
+    "home points":99
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":116,
+    "home":"Detroit Pistons",
+    "home points":106
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":81,
+    "home":"Indiana Pacers",
+    "home points":114
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":91,
+    "home":"Los Angeles Lakers",
+    "home points":104
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":103,
+    "home":"Miami Heat",
+    "home points":122
+  },
+  {
+    "date":"Fri Dec 20 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":120,
+    "home":"Philadelphia 76ers",
+    "home points":121
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":106,
+    "home":"Boston Celtics",
+    "home points":99
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":88,
+    "home":"Charlotte Bobcats",
+    "home points":85
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":84,
+    "home":"Chicago Bulls",
+    "home points":100
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":114,
+    "home":"Detroit Pistons",
+    "home points":97
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":83,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":91,
+    "home":"Los Angeles Clippers",
+    "home points":112
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":106,
+    "home":"Milwaukee Bucks",
+    "home points":116
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":95,
+    "home":"New York Knicks",
+    "home points":87
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":105,
+    "home":"Orlando Magic",
+    "home points":100
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":108,
+    "home":"Phoenix Suns",
+    "home points":123
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":107,
+    "home":"Portland Trail Blazers",
+    "home points":110
+  },
+  {
+    "date":"Sat Dec 21 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":113,
+    "home":"San Antonio Spurs",
+    "home points":100
+  },
+  {
+    "date":"Sun Dec 22 2013",
+    "visitor":"Boston Celtics",
+    "visitor points":79,
+    "home":"Indiana Pacers",
+    "home points":106
+  },
+  {
+    "date":"Sun Dec 22 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":116,
+    "home":"Los Angeles Clippers",
+    "home points":120
+  },
+  {
+    "date":"Sun Dec 22 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":104,
+    "home":"Oklahoma City Thunder",
+    "home points":98
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Indiana Pacers",
+    "visitor points":103,
+    "home":"Brooklyn Nets",
+    "home points":86
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":110,
+    "home":"Charlotte Bobcats",
+    "home points":111
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":115,
+    "home":"Cleveland Cavaliers",
+    "home points":92
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":89,
+    "home":"Denver Nuggets",
+    "home points":81
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":111,
+    "home":"Houston Rockets",
+    "home points":104
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":94,
+    "home":"Memphis Grizzlies",
+    "home points":104
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":119,
+    "home":"Miami Heat",
+    "home points":121
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"New York Knicks",
+    "visitor points":103,
+    "home":"Orlando Magic",
+    "home points":98
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":90,
+    "home":"Phoenix Suns",
+    "home points":117
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":113,
+    "home":"Sacramento Kings",
+    "home points":100
+  },
+  {
+    "date":"Mon Dec 23 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":99,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Wed Dec 25 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":95,
+    "home":"Brooklyn Nets",
+    "home points":78
+  },
+  {
+    "date":"Wed Dec 25 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":103,
+    "home":"Golden State Warriors",
+    "home points":105
+  },
+  {
+    "date":"Wed Dec 25 2013",
+    "visitor":"Miami Heat",
+    "visitor points":101,
+    "home":"Los Angeles Lakers",
+    "home points":95
+  },
+  {
+    "date":"Wed Dec 25 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":123,
+    "home":"New York Knicks",
+    "home points":94
+  },
+  {
+    "date":"Wed Dec 25 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":111,
+    "home":"San Antonio Spurs",
+    "home points":98
+  },
+  {
+    "date":"Thu Dec 26 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":127,
+    "home":"Cleveland Cavaliers",
+    "home points":125
+  },
+  {
+    "date":"Thu Dec 26 2013",
+    "visitor":"San Antonio Spurs",
+    "visitor points":116,
+    "home":"Dallas Mavericks",
+    "home points":107
+  },
+  {
+    "date":"Thu Dec 26 2013",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":92,
+    "home":"Houston Rockets",
+    "home points":100
+  },
+  {
+    "date":"Thu Dec 26 2013",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":112,
+    "home":"Portland Trail Blazers",
+    "home points":116
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":93,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":89,
+    "home":"Charlotte Bobcats",
+    "home points":85
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":86,
+    "home":"Golden State Warriors",
+    "home points":115
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":98,
+    "home":"Minnesota Timberwolves",
+    "home points":120
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":89,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":95,
+    "home":"New York Knicks",
+    "home points":83
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":92,
+    "home":"Orlando Magic",
+    "home points":109
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Miami Heat",
+    "visitor points":103,
+    "home":"Sacramento Kings",
+    "home points":108
+  },
+  {
+    "date":"Fri Dec 27 2013",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":103,
+    "home":"Utah Jazz",
+    "home points":105
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":116,
+    "home":"Atlanta Hawks",
+    "home points":118
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":100,
+    "home":"Boston Celtics",
+    "home points":103
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":105,
+    "home":"Chicago Bulls",
+    "home points":83
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":98,
+    "home":"Houston Rockets",
+    "home points":107
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":91,
+    "home":"Indiana Pacers",
+    "home points":105
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Utah Jazz",
+    "visitor points":90,
+    "home":"Los Angeles Clippers",
+    "home points":98
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Denver Nuggets",
+    "visitor points":99,
+    "home":"Memphis Grizzlies",
+    "home points":120
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":117,
+    "home":"Milwaukee Bucks",
+    "home points":95
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":101,
+    "home":"Phoenix Suns",
+    "home points":115
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Miami Heat",
+    "visitor points":108,
+    "home":"Portland Trail Blazers",
+    "home points":107
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"New York Knicks",
+    "visitor points":100,
+    "home":"Toronto Raptors",
+    "home points":115
+  },
+  {
+    "date":"Sat Dec 28 2013",
+    "visitor":"Detroit Pistons",
+    "visitor points":82,
+    "home":"Washington Wizards",
+    "home points":106
+  },
+  {
+    "date":"Sun Dec 29 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":108,
+    "home":"Cleveland Cavaliers",
+    "home points":104
+  },
+  {
+    "date":"Sun Dec 29 2013",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":111,
+    "home":"Los Angeles Lakers",
+    "home points":104
+  },
+  {
+    "date":"Sun Dec 29 2013",
+    "visitor":"Houston Rockets",
+    "visitor points":86,
+    "home":"Oklahoma City Thunder",
+    "home points":117
+  },
+  {
+    "date":"Sun Dec 29 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":102,
+    "home":"Orlando Magic",
+    "home points":109
+  },
+  {
+    "date":"Sun Dec 29 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":104,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Miami Heat",
+    "visitor points":97,
+    "home":"Denver Nuggets",
+    "home points":94
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Washington Wizards",
+    "visitor points":106,
+    "home":"Detroit Pistons",
+    "home points":99
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Phoenix Suns",
+    "visitor points":107,
+    "home":"Los Angeles Clippers",
+    "home points":88
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Chicago Bulls",
+    "visitor points":95,
+    "home":"Memphis Grizzlies",
+    "home points":91
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Dallas Mavericks",
+    "visitor points":100,
+    "home":"Minnesota Timberwolves",
+    "home points":98
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":108,
+    "home":"New Orleans Pelicans",
+    "home points":110
+  },
+  {
+    "date":"Mon Dec 30 2013",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":80,
+    "home":"Utah Jazz",
+    "home points":83
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Atlanta Hawks",
+    "visitor points":92,
+    "home":"Boston Celtics",
+    "home points":91
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Toronto Raptors",
+    "visitor points":85,
+    "home":"Chicago Bulls",
+    "home points":79
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Sacramento Kings",
+    "visitor points":110,
+    "home":"Houston Rockets",
+    "home points":106
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":76,
+    "home":"Indiana Pacers",
+    "home points":91
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":94,
+    "home":"Los Angeles Lakers",
+    "home points":79
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":98,
+    "home":"Oklahoma City Thunder",
+    "home points":94
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Golden State Warriors",
+    "visitor points":94,
+    "home":"Orlando Magic",
+    "home points":81
+  },
+  {
+    "date":"Tue Dec 31 2013",
+    "visitor":"Brooklyn Nets",
+    "visitor points":92,
+    "home":"San Antonio Spurs",
+    "home points":113
+  },
+  {
+    "date":"Wed Jan 1 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":114,
+    "home":"Denver Nuggets",
+    "home points":102
+  },
+  {
+    "date":"Wed Jan 1 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":85,
+    "home":"Los Angeles Clippers",
+    "home points":112
+  },
+  {
+    "date":"Wed Jan 1 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":112,
+    "home":"Minnesota Timberwolves",
+    "home points":124
+  },
+  {
+    "date":"Wed Jan 1 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":82,
+    "home":"Toronto Raptors",
+    "home points":95
+  },
+  {
+    "date":"Wed Jan 1 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":87,
+    "home":"Washington Wizards",
+    "home points":78
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":82,
+    "home":"Chicago Bulls",
+    "home points":94
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":81,
+    "home":"Cleveland Cavaliers",
+    "home points":87
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":123,
+    "home":"Miami Heat",
+    "home points":114
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":95,
+    "home":"Oklahoma City Thunder",
+    "home points":93
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":99,
+    "home":"Phoenix Suns",
+    "home points":91
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":134
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":113,
+    "home":"Sacramento Kings",
+    "home points":104
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"New York Knicks",
+    "visitor points":105,
+    "home":"San Antonio Spurs",
+    "home points":101
+  },
+  {
+    "date":"Thu Jan 2 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":87,
+    "home":"Utah Jazz",
+    "home points":96
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":101,
+    "home":"Atlanta Hawks",
+    "home points":100
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":95,
+    "home":"Boston Celtics",
+    "home points":92
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":119,
+    "home":"Dallas Mavericks",
+    "home points":112
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":108,
+    "home":"Denver Nuggets",
+    "home points":111
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"New York Knicks",
+    "visitor points":100,
+    "home":"Houston Rockets",
+    "home points":102
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":99,
+    "home":"Los Angeles Lakers",
+    "home points":110
+  },
+  {
+    "date":"Fri Jan 3 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":101,
+    "home":"Washington Wizards",
+    "home points":88
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":82,
+    "home":"Brooklyn Nets",
+    "home points":89
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":84,
+    "home":"Chicago Bulls",
+    "home points":91
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":82,
+    "home":"Indiana Pacers",
+    "home points":99
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":115,
+    "home":"Minnesota Timberwolves",
+    "home points":111
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Miami Heat",
+    "visitor points":110,
+    "home":"Orlando Magic",
+    "home points":94
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":100,
+    "home":"Phoenix Suns",
+    "home points":116
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":101,
+    "home":"Portland Trail Blazers",
+    "home points":99
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":113,
+    "home":"Sacramento Kings",
+    "home points":103
+  },
+  {
+    "date":"Sat Jan 4 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":92,
+    "home":"San Antonio Spurs",
+    "home points":116
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":82,
+    "home":"Cleveland Cavaliers",
+    "home points":78
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"New York Knicks",
+    "visitor points":92,
+    "home":"Dallas Mavericks",
+    "home points":80
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":112,
+    "home":"Detroit Pistons",
+    "home points":84
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":137,
+    "home":"Los Angeles Lakers",
+    "home points":115
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":97,
+    "home":"Miami Heat",
+    "home points":102
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":96,
+    "home":"Oklahoma City Thunder",
+    "home points":119
+  },
+  {
+    "date":"Sun Jan 5 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":112,
+    "home":"Washington Wizards",
+    "home points":96
+  },
+  {
+    "date":"Mon Jan 6 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":86,
+    "home":"Brooklyn Nets",
+    "home points":91
+  },
+  {
+    "date":"Mon Jan 6 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":81,
+    "home":"Los Angeles Clippers",
+    "home points":101
+  },
+  {
+    "date":"Mon Jan 6 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":126,
+    "home":"Philadelphia 76ers",
+    "home points":95
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":97,
+    "home":"Charlotte Bobcats",
+    "home points":83
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":87,
+    "home":"Chicago Bulls",
+    "home points":92
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":93,
+    "home":"Cleveland Cavaliers",
+    "home points":111
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":97,
+    "home":"Dallas Mavericks",
+    "home points":110
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":98,
+    "home":"Denver Nuggets",
+    "home points":129
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":79,
+    "home":"Indiana Pacers",
+    "home points":86
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":110,
+    "home":"Memphis Grizzlies",
+    "home points":108
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":88,
+    "home":"Miami Heat",
+    "home points":107
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":101,
+    "home":"Milwaukee Bucks",
+    "home points":80
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":85,
+    "home":"New York Knicks",
+    "home points":89
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":119,
+    "home":"Sacramento Kings",
+    "home points":123
+  },
+  {
+    "date":"Tue Jan 7 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":101,
+    "home":"Utah Jazz",
+    "home points":112
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":87,
+    "home":"Atlanta Hawks",
+    "home points":97
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":98,
+    "home":"Brooklyn Nets",
+    "home points":102
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":99,
+    "home":"Houston Rockets",
+    "home points":113
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":105,
+    "home":"Los Angeles Clippers",
+    "home points":111
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"Minnesota Timberwolves",
+    "home points":103
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":102,
+    "home":"New Orleans Pelicans",
+    "home points":96
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":94,
+    "home":"Portland Trail Blazers",
+    "home points":110
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":90,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Wed Jan 8 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":91,
+    "home":"Toronto Raptors",
+    "home points":112
+  },
+  {
+    "date":"Thu Jan 9 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":88,
+    "home":"Denver Nuggets",
+    "home points":101
+  },
+  {
+    "date":"Thu Jan 9 2014",
+    "visitor":"Miami Heat",
+    "visitor points":92,
+    "home":"New York Knicks",
+    "home points":102
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":80,
+    "home":"Atlanta Hawks",
+    "home points":83
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Miami Heat",
+    "visitor points":95,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":97,
+    "home":"Golden State Warriors",
+    "home points":99
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":66,
+    "home":"Indiana Pacers",
+    "home points":93
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":87,
+    "home":"Los Angeles Clippers",
+    "home points":123
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":99,
+    "home":"Memphis Grizzlies",
+    "home points":104
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":81,
+    "home":"Milwaukee Bucks",
+    "home points":72
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":92,
+    "home":"Minnesota Timberwolves",
+    "home points":119
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":107,
+    "home":"New Orleans Pelicans",
+    "home points":90
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":114,
+    "home":"Philadelphia 76ers",
+    "home points":104
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":83,
+    "home":"Sacramento Kings",
+    "home points":103
+  },
+  {
+    "date":"Fri Jan 10 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":113,
+    "home":"Utah Jazz",
+    "home points":102
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":97,
+    "home":"Chicago Bulls",
+    "home points":103
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":107,
+    "home":"Dallas Mavericks",
+    "home points":110
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":94,
+    "home":"Denver Nuggets",
+    "home points":120
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":108,
+    "home":"Detroit Pistons",
+    "home points":110
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":85,
+    "home":"Oklahoma City Thunder",
+    "home points":101
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"New York Knicks",
+    "visitor points":102,
+    "home":"Philadelphia 76ers",
+    "home points":92
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":112
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":80,
+    "home":"Toronto Raptors",
+    "home points":96
+  },
+  {
+    "date":"Sat Jan 11 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":114,
+    "home":"Washington Wizards",
+    "home points":107
+  },
+  {
+    "date":"Sun Jan 12 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":101,
+    "home":"Memphis Grizzlies",
+    "home points":108
+  },
+  {
+    "date":"Sun Jan 12 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":80,
+    "home":"Sacramento Kings",
+    "home points":124
+  },
+  {
+    "date":"Sun Jan 12 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":86,
+    "home":"San Antonio Spurs",
+    "home points":104
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":104,
+    "home":"Boston Celtics",
+    "home points":92
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":102,
+    "home":"Chicago Bulls",
+    "home points":88
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":88,
+    "home":"Dallas Mavericks",
+    "home points":107
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":101,
+    "home":"New Orleans Pelicans",
+    "home points":95
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":96,
+    "home":"New York Knicks",
+    "home points":98
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":94,
+    "home":"Toronto Raptors",
+    "home points":116
+  },
+  {
+    "date":"Mon Jan 13 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":103,
+    "home":"Utah Jazz",
+    "home points":118
+  },
+  {
+    "date":"Tue Jan 14 2014",
+    "visitor":"New York Knicks",
+    "visitor points":98,
+    "home":"Charlotte Bobcats",
+    "home points":108
+  },
+  {
+    "date":"Tue Jan 14 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":92,
+    "home":"Indiana Pacers",
+    "home points":116
+  },
+  {
+    "date":"Tue Jan 14 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":120,
+    "home":"Los Angeles Lakers",
+    "home points":118
+  },
+  {
+    "date":"Tue Jan 14 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":87,
+    "home":"Memphis Grizzlies",
+    "home points":90
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":83,
+    "home":"Boston Celtics",
+    "home points":88
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":123,
+    "home":"Golden State Warriors",
+    "home points":116
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":127,
+    "home":"Los Angeles Clippers",
+    "home points":129
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":82,
+    "home":"Milwaukee Bucks",
+    "home points":77
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":111,
+    "home":"Minnesota Timberwolves",
+    "home points":108
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":103,
+    "home":"New Orleans Pelicans",
+    "home points":100
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":128,
+    "home":"Orlando Magic",
+    "home points":125
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":92,
+    "home":"Philadelphia 76ers",
+    "home points":95
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":114,
+    "home":"Phoenix Suns",
+    "home points":121
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":96,
+    "home":"Portland Trail Blazers",
+    "home points":108
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":105,
+    "home":"San Antonio Spurs",
+    "home points":109
+  },
+  {
+    "date":"Wed Jan 15 2014",
+    "visitor":"Miami Heat",
+    "visitor points":97,
+    "home":"Washington Wizards",
+    "home points":114
+  },
+  {
+    "date":"Thu Jan 16 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":127,
+    "home":"Atlanta Hawks",
+    "home points":110
+  },
+  {
+    "date":"Thu Jan 16 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":104,
+    "home":"Houston Rockets",
+    "home points":92
+  },
+  {
+    "date":"Thu Jan 16 2014",
+    "visitor":"New York Knicks",
+    "visitor points":89,
+    "home":"Indiana Pacers",
+    "home points":117
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":107,
+    "home":"Boston Celtics",
+    "home points":104
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":117,
+    "home":"Denver Nuggets",
+    "home points":109
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":110,
+    "home":"Detroit Pistons",
+    "home points":89
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":90,
+    "home":"Memphis Grizzlies",
+    "home points":91
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":109,
+    "home":"New York Knicks",
+    "home points":95
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":121,
+    "home":"Oklahoma City Thunder",
+    "home points":127
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":111,
+    "home":"Orlando Magic",
+    "home points":101
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Miami Heat",
+    "visitor points":101,
+    "home":"Philadelphia 76ers",
+    "home points":86
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":110,
+    "home":"Phoenix Suns",
+    "home points":107
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":109,
+    "home":"San Antonio Spurs",
+    "home points":100
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":89,
+    "home":"Toronto Raptors",
+    "home points":94
+  },
+  {
+    "date":"Fri Jan 17 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":93,
+    "home":"Washington Wizards",
+    "home points":96
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Miami Heat",
+    "visitor points":104,
+    "home":"Charlotte Bobcats",
+    "home points":96
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":78,
+    "home":"Chicago Bulls",
+    "home points":103
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":127,
+    "home":"Dallas Mavericks",
+    "home points":111
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":104,
+    "home":"Houston Rockets",
+    "home points":114
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":92,
+    "home":"Indiana Pacers",
+    "home points":106
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":72,
+    "home":"Minnesota Timberwolves",
+    "home points":98
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":97,
+    "home":"New Orleans Pelicans",
+    "home points":87
+  },
+  {
+    "date":"Sat Jan 18 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":104,
+    "home":"Washington Wizards",
+    "home points":98
+  },
+  {
+    "date":"Sun Jan 19 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":93,
+    "home":"Oklahoma City Thunder",
+    "home points":108
+  },
+  {
+    "date":"Sun Jan 19 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":91,
+    "home":"Orlando Magic",
+    "home points":93
+  },
+  {
+    "date":"Sun Jan 19 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":103,
+    "home":"Phoenix Suns",
+    "home points":117
+  },
+  {
+    "date":"Sun Jan 19 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":82,
+    "home":"San Antonio Spurs",
+    "home points":110
+  },
+  {
+    "date":"Sun Jan 19 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":112,
+    "home":"Toronto Raptors",
+    "home points":106
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Miami Heat",
+    "visitor points":114,
+    "home":"Atlanta Hawks",
+    "home points":121
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":95,
+    "home":"Charlotte Bobcats",
+    "home points":100
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":100,
+    "home":"Chicago Bulls",
+    "home points":102
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":102,
+    "home":"Cleveland Cavaliers",
+    "home points":97
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":112,
+    "home":"Detroit Pistons",
+    "home points":103
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":102,
+    "home":"Golden State Warriors",
+    "home points":94
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":113,
+    "home":"Houston Rockets",
+    "home points":126
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":95,
+    "home":"Memphis Grizzlies",
+    "home points":92
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":103,
+    "home":"New York Knicks",
+    "home points":80
+  },
+  {
+    "date":"Mon Jan 20 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":99,
+    "home":"Washington Wizards",
+    "home points":107
+  },
+  {
+    "date":"Tue Jan 21 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":90,
+    "home":"Brooklyn Nets",
+    "home points":101
+  },
+  {
+    "date":"Tue Jan 21 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":86,
+    "home":"Miami Heat",
+    "home points":93
+  },
+  {
+    "date":"Tue Jan 21 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":114,
+    "home":"New Orleans Pelicans",
+    "home points":97
+  },
+  {
+    "date":"Tue Jan 21 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":97,
+    "home":"Oklahoma City Thunder",
+    "home points":105
+  },
+  {
+    "date":"Tue Jan 21 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":112,
+    "home":"Utah Jazz",
+    "home points":97
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":91,
+    "home":"Charlotte Bobcats",
+    "home points":95
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":98,
+    "home":"Cleveland Cavaliers",
+    "home points":87
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":98,
+    "home":"Houston Rockets",
+    "home points":119
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":101,
+    "home":"Milwaukee Bucks",
+    "home points":104
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":110,
+    "home":"New York Knicks",
+    "home points":106
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":112,
+    "home":"Orlando Magic",
+    "home points":109
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":100,
+    "home":"Phoenix Suns",
+    "home points":124
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":111,
+    "home":"San Antonio Spurs",
+    "home points":105
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":85,
+    "home":"Toronto Raptors",
+    "home points":93
+  },
+  {
+    "date":"Wed Jan 22 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":113,
+    "home":"Washington Wizards",
+    "home points":111
+  },
+  {
+    "date":"Thu Jan 23 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":102,
+    "home":"Miami Heat",
+    "home points":109
+  },
+  {
+    "date":"Thu Jan 23 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":105,
+    "home":"Portland Trail Blazers",
+    "home points":110
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":105,
+    "home":"Atlanta Hawks",
+    "home points":79
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":101,
+    "home":"Boston Celtics",
+    "home points":83
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":106,
+    "home":"Brooklyn Nets",
+    "home points":107
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":112,
+    "home":"Chicago Bulls",
+    "home points":95
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":78,
+    "home":"Cleveland Cavaliers",
+    "home points":93
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":103,
+    "home":"Detroit Pistons",
+    "home points":101
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":121,
+    "home":"Golden State Warriors",
+    "home points":120
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":88,
+    "home":"Houston Rockets",
+    "home points":87
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":96,
+    "home":"New York Knicks",
+    "home points":125
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":105,
+    "home":"Orlando Magic",
+    "home points":114
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":104,
+    "home":"Philadelphia 76ers",
+    "home points":95
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":101,
+    "home":"Phoenix Suns",
+    "home points":95
+  },
+  {
+    "date":"Fri Jan 24 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":116,
+    "home":"Sacramento Kings",
+    "home points":111
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":89,
+    "home":"Charlotte Bobcats",
+    "home points":87
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":96,
+    "home":"Denver Nuggets",
+    "home points":109
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":81,
+    "home":"Memphis Grizzlies",
+    "home points":99
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":112,
+    "home":"Milwaukee Bucks",
+    "home points":87
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":103,
+    "home":"Philadelphia 76ers",
+    "home points":91
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":115
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":126,
+    "home":"Toronto Raptors",
+    "home points":118
+  },
+  {
+    "date":"Sat Jan 25 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":101,
+    "home":"Utah Jazz",
+    "home points":104
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":85,
+    "home":"Boston Celtics",
+    "home points":79
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":99,
+    "home":"Cleveland Cavaliers",
+    "home points":90
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":106,
+    "home":"Dallas Mavericks",
+    "home points":116
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":88,
+    "home":"Golden State Warriors",
+    "home points":103
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":101,
+    "home":"Miami Heat",
+    "home points":113
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":92,
+    "home":"New Orleans Pelicans",
+    "home points":100
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":103,
+    "home":"New York Knicks",
+    "home points":110
+  },
+  {
+    "date":"Sun Jan 26 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":125,
+    "home":"Sacramento Kings",
+    "home points":117
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":104,
+    "home":"Brooklyn Nets",
+    "home points":103
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":95,
+    "home":"Chicago Bulls",
+    "home points":86
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":114,
+    "home":"Milwaukee Bucks",
+    "home points":86
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":109,
+    "home":"Oklahoma City Thunder",
+    "home points":111
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":124,
+    "home":"Philadelphia 76ers",
+    "home points":113
+  },
+  {
+    "date":"Mon Jan 27 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":99,
+    "home":"Utah Jazz",
+    "home points":106
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":100,
+    "home":"Cleveland Cavaliers",
+    "home points":89
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":87,
+    "home":"Detroit Pistons",
+    "home points":103
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":88,
+    "home":"Golden State Warriors",
+    "home points":85
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":90,
+    "home":"Houston Rockets",
+    "home points":97
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":104,
+    "home":"Los Angeles Lakers",
+    "home points":92
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":88,
+    "home":"New York Knicks",
+    "home points":114
+  },
+  {
+    "date":"Tue Jan 28 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":98,
+    "home":"Portland Trail Blazers",
+    "home points":81
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":95,
+    "home":"Boston Celtics",
+    "home points":94
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":117,
+    "home":"Dallas Mavericks",
+    "home points":115
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":101,
+    "home":"Denver Nuggets",
+    "home points":98
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":103,
+    "home":"Los Angeles Clippers",
+    "home points":110
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":112,
+    "home":"Miami Heat",
+    "home points":95
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":126,
+    "home":"Milwaukee Bucks",
+    "home points":117
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":77,
+    "home":"Minnesota Timberwolves",
+    "home points":88
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":99,
+    "home":"Sacramento Kings",
+    "home points":89
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":96,
+    "home":"San Antonio Spurs",
+    "home points":86
+  },
+  {
+    "date":"Wed Jan 29 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":83,
+    "home":"Toronto Raptors",
+    "home points":98
+  },
+  {
+    "date":"Thu Jan 30 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":92,
+    "home":"Golden State Warriors",
+    "home points":111
+  },
+  {
+    "date":"Thu Jan 30 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":102,
+    "home":"Indiana Pacers",
+    "home points":94
+  },
+  {
+    "date":"Thu Jan 30 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":86,
+    "home":"New York Knicks",
+    "home points":117
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":120,
+    "home":"Brooklyn Nets",
+    "home points":95
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":103,
+    "home":"Dallas Mavericks",
+    "home points":107
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":100,
+    "home":"Denver Nuggets",
+    "home points":90
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":110,
+    "home":"Los Angeles Lakers",
+    "home points":100
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":94,
+    "home":"Minnesota Timberwolves",
+    "home points":90
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":102,
+    "home":"Orlando Magic",
+    "home points":113
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":125,
+    "home":"Philadelphia 76ers",
+    "home points":99
+  },
+  {
+    "date":"Fri Jan 31 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":95,
+    "home":"Utah Jazz",
+    "home points":90
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":113,
+    "home":"Atlanta Hawks",
+    "home points":120
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":96,
+    "home":"Detroit Pistons",
+    "home points":113
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":92,
+    "home":"Houston Rockets",
+    "home points":106
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":96,
+    "home":"Indiana Pacers",
+    "home points":97
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":87,
+    "home":"Los Angeles Clippers",
+    "home points":102
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":90,
+    "home":"Memphis Grizzlies",
+    "home points":99
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":79,
+    "home":"New Orleans Pelicans",
+    "home points":88
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Miami Heat",
+    "visitor points":106,
+    "home":"New York Knicks",
+    "home points":91
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":95,
+    "home":"Phoenix Suns",
+    "home points":105
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":103,
+    "home":"Portland Trail Blazers",
+    "home points":106
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":93,
+    "home":"San Antonio Spurs",
+    "home points":95
+  },
+  {
+    "date":"Sat Feb 1 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":81,
+    "home":"Washington Wizards",
+    "home points":96
+  },
+  {
+    "date":"Sun Feb 2 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":89,
+    "home":"Boston Celtics",
+    "home points":96
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":102,
+    "home":"Brooklyn Nets",
+    "home points":108
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":107,
+    "home":"Dallas Mavericks",
+    "home points":124
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":115,
+    "home":"Denver Nuggets",
+    "home points":116
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":79,
+    "home":"Indiana Pacers",
+    "home points":98
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":96,
+    "home":"Miami Heat",
+    "home points":102
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"New York Knicks",
+    "visitor points":98,
+    "home":"Milwaukee Bucks",
+    "home points":101
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":102,
+    "home":"New Orleans Pelicans",
+    "home points":95
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":77,
+    "home":"Oklahoma City Thunder",
+    "home points":86
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":70,
+    "home":"Sacramento Kings",
+    "home points":99
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":94,
+    "home":"Utah Jazz",
+    "home points":79
+  },
+  {
+    "date":"Mon Feb 3 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":90,
+    "home":"Washington Wizards",
+    "home points":100
+  },
+  {
+    "date":"Tue Feb 4 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":89,
+    "home":"Atlanta Hawks",
+    "home points":85
+  },
+  {
+    "date":"Tue Feb 4 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":91,
+    "home":"Golden State Warriors",
+    "home points":75
+  },
+  {
+    "date":"Tue Feb 4 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":99,
+    "home":"Minnesota Timberwolves",
+    "home points":109
+  },
+  {
+    "date":"Tue Feb 4 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":101,
+    "home":"Phoenix Suns",
+    "home points":92
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":119,
+    "home":"Cleveland Cavaliers",
+    "home points":108
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":100,
+    "home":"Denver Nuggets",
+    "home points":110
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":108,
+    "home":"Houston Rockets",
+    "home points":122
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Miami Heat",
+    "visitor points":116,
+    "home":"Los Angeles Clippers",
+    "home points":112
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":110,
+    "home":"Memphis Grizzlies",
+    "home points":96
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":100,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":94,
+    "home":"New York Knicks",
+    "home points":90
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":97,
+    "home":"Oklahoma City Thunder",
+    "home points":106
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":98,
+    "home":"Orlando Magic",
+    "home points":112
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":114,
+    "home":"Philadelphia 76ers",
+    "home points":108
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":101,
+    "home":"Sacramento Kings",
+    "home points":109
+  },
+  {
+    "date":"Wed Feb 5 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":125,
+    "home":"Washington Wizards",
+    "home points":118
+  },
+  {
+    "date":"Thu Feb 6 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":89,
+    "home":"Brooklyn Nets",
+    "home points":103
+  },
+  {
+    "date":"Thu Feb 6 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":87,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":89,
+    "home":"Boston Celtics",
+    "home points":99
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":81,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":95,
+    "home":"Detroit Pistons",
+    "home points":111
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":113,
+    "home":"Indiana Pacers",
+    "home points":118
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":105,
+    "home":"Los Angeles Clippers",
+    "home points":118
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":91,
+    "home":"New Orleans Pelicans",
+    "home points":98
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":90,
+    "home":"New York Knicks",
+    "home points":117
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":102,
+    "home":"Orlando Magic",
+    "home points":103
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":112,
+    "home":"Philadelphia 76ers",
+    "home points":98
+  },
+  {
+    "date":"Fri Feb 7 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":115,
+    "home":"Washington Wizards",
+    "home points":113
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":79,
+    "home":"Atlanta Hawks",
+    "home points":76
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":104,
+    "home":"Charlotte Bobcats",
+    "home points":100
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":109,
+    "home":"Detroit Pistons",
+    "home points":126
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":101,
+    "home":"Milwaukee Bucks",
+    "home points":95
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":117,
+    "home":"Minnesota Timberwolves",
+    "home points":110
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":109,
+    "home":"Phoenix Suns",
+    "home points":122
+  },
+  {
+    "date":"Sat Feb 8 2014",
+    "visitor":"Miami Heat",
+    "visitor points":89,
+    "home":"Utah Jazz",
+    "home points":94
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":102,
+    "home":"Boston Celtics",
+    "home points":91
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":81,
+    "home":"Brooklyn Nets",
+    "home points":93
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":83,
+    "home":"Cleveland Cavaliers",
+    "home points":91
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":78,
+    "home":"Los Angeles Clippers",
+    "home points":123
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":92,
+    "home":"Los Angeles Lakers",
+    "home points":86
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"New York Knicks",
+    "visitor points":100,
+    "home":"Oklahoma City Thunder",
+    "home points":112
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":92,
+    "home":"Orlando Magic",
+    "home points":93
+  },
+  {
+    "date":"Sun Feb 9 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":84,
+    "home":"Washington Wizards",
+    "home points":93
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":100,
+    "home":"Detroit Pistons",
+    "home points":109
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":80,
+    "home":"Golden State Warriors",
+    "home points":123
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":80,
+    "home":"Indiana Pacers",
+    "home points":119
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":102,
+    "home":"Milwaukee Bucks",
+    "home points":86
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":107,
+    "home":"Minnesota Timberwolves",
+    "home points":89
+  },
+  {
+    "date":"Mon Feb 10 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":101,
+    "home":"Toronto Raptors",
+    "home points":108
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":89,
+    "home":"Charlotte Bobcats",
+    "home points":114
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":85,
+    "home":"Chicago Bulls",
+    "home points":100
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":99,
+    "home":"Cleveland Cavaliers",
+    "home points":109
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":96,
+    "home":"Los Angeles Lakers",
+    "home points":79
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":89,
+    "home":"Memphis Grizzlies",
+    "home points":92
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Miami Heat",
+    "visitor points":103,
+    "home":"Phoenix Suns",
+    "home points":97
+  },
+  {
+    "date":"Tue Feb 11 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":98,
+    "home":"Portland Trail Blazers",
+    "home points":95
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":104,
+    "home":"Boston Celtics",
+    "home points":92
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":89,
+    "home":"Brooklyn Nets",
+    "home points":105
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":93,
+    "home":"Detroit Pistons",
+    "home points":89
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Miami Heat",
+    "visitor points":111,
+    "home":"Golden State Warriors",
+    "home points":110
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":112,
+    "home":"Houston Rockets",
+    "home points":113
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":81,
+    "home":"Indiana Pacers",
+    "home points":73
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":117,
+    "home":"Los Angeles Clippers",
+    "home points":122
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":102,
+    "home":"Milwaukee Bucks",
+    "home points":98
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":90,
+    "home":"Minnesota Timberwolves",
+    "home points":117
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":106,
+    "home":"New York Knicks",
+    "home points":101
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":86,
+    "home":"Orlando Magic",
+    "home points":81
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":83,
+    "home":"Toronto Raptors",
+    "home points":104
+  },
+  {
+    "date":"Wed Feb 12 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":100,
+    "home":"Utah Jazz",
+    "home points":105
+  },
+  {
+    "date":"Thu Feb 13 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":76,
+    "home":"Chicago Bulls",
+    "home points":92
+  },
+  {
+    "date":"Thu Feb 13 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":107,
+    "home":"Los Angeles Lakers",
+    "home points":103
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Miami Heat",
+    "visitor points":117,
+    "home":"Dallas Mavericks",
+    "home points":106
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":112,
+    "home":"Denver Nuggets",
+    "home points":107
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":108,
+    "home":"Detroit Pistons",
+    "home points":96
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":98,
+    "home":"Indiana Pacers",
+    "home points":108
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":113,
+    "home":"Los Angeles Clippers",
+    "home points":103
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"New York Knicks",
+    "visitor points":93,
+    "home":"Memphis Grizzlies",
+    "home points":98
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":100,
+    "home":"Milwaukee Bucks",
+    "home points":104
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":114,
+    "home":"Philadelphia 76ers",
+    "home points":85
+  },
+  {
+    "date":"Tue Feb 18 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":103,
+    "home":"Washington Wizards",
+    "home points":93
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":114,
+    "home":"Atlanta Hawks",
+    "home points":97
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":98,
+    "home":"Charlotte Bobcats",
+    "home points":116
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":93,
+    "home":"Cleveland Cavaliers",
+    "home points":101
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":134,
+    "home":"Los Angeles Lakers",
+    "home points":108
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":91,
+    "home":"Minnesota Timberwolves",
+    "home points":104
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"New York Knicks",
+    "visitor points":98,
+    "home":"New Orleans Pelicans",
+    "home points":91
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":94,
+    "home":"Phoenix Suns",
+    "home points":100
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":111,
+    "home":"Portland Trail Blazers",
+    "home points":109
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":101,
+    "home":"Sacramento Kings",
+    "home points":92
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":94,
+    "home":"Toronto Raptors",
+    "home points":92
+  },
+  {
+    "date":"Wed Feb 19 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":105,
+    "home":"Utah Jazz",
+    "home points":99
+  },
+  {
+    "date":"Thu Feb 20 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":99,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Thu Feb 20 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":101,
+    "home":"Milwaukee Bucks",
+    "home points":90
+  },
+  {
+    "date":"Thu Feb 20 2014",
+    "visitor":"Miami Heat",
+    "visitor points":103,
+    "home":"Oklahoma City Thunder",
+    "home points":81
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":87,
+    "home":"Charlotte Bobcats",
+    "home points":90
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":89,
+    "home":"Chicago Bulls",
+    "home points":117
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":107,
+    "home":"Detroit Pistons",
+    "home points":115
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":92,
+    "home":"Los Angeles Lakers",
+    "home points":101
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":96,
+    "home":"Memphis Grizzlies",
+    "home points":102
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"New York Knicks",
+    "visitor points":121,
+    "home":"Orlando Magic",
+    "home points":129
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":124,
+    "home":"Philadelphia 76ers",
+    "home points":112
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":85,
+    "home":"Phoenix Suns",
+    "home points":106
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":94,
+    "home":"Portland Trail Blazers",
+    "home points":102
+  },
+  {
+    "date":"Fri Feb 21 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":91,
+    "home":"Toronto Raptors",
+    "home points":98
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"New York Knicks",
+    "visitor points":98,
+    "home":"Atlanta Hawks",
+    "home points":107
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":89,
+    "home":"Charlotte Bobcats",
+    "home points":92
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":113,
+    "home":"Detroit Pistons",
+    "home points":102
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":86,
+    "home":"Golden State Warriors",
+    "home points":93
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":110,
+    "home":"Milwaukee Bucks",
+    "home points":100
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":98,
+    "home":"Sacramento Kings",
+    "home points":105
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":121,
+    "home":"Utah Jazz",
+    "home points":104
+  },
+  {
+    "date":"Sat Feb 22 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":93,
+    "home":"Washington Wizards",
+    "home points":94
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":96,
+    "home":"Cleveland Cavaliers",
+    "home points":83
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":109,
+    "home":"Denver Nuggets",
+    "home points":95
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":108,
+    "home":"Los Angeles Lakers",
+    "home points":102
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":79,
+    "home":"Miami Heat",
+    "home points":93
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":125,
+    "home":"Oklahoma City Thunder",
+    "home points":117
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":115,
+    "home":"Phoenix Suns",
+    "home points":112
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":97,
+    "home":"Portland Trail Blazers",
+    "home points":108
+  },
+  {
+    "date":"Sun Feb 23 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":90,
+    "home":"Toronto Raptors",
+    "home points":105
+  },
+  {
+    "date":"Mon Feb 24 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":104,
+    "home":"Detroit Pistons",
+    "home points":96
+  },
+  {
+    "date":"Mon Feb 24 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":123,
+    "home":"New Orleans Pelicans",
+    "home points":110
+  },
+  {
+    "date":"Mon Feb 24 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":110,
+    "home":"New York Knicks",
+    "home points":108
+  },
+  {
+    "date":"Mon Feb 24 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":130,
+    "home":"Philadelphia 76ers",
+    "home points":110
+  },
+  {
+    "date":"Mon Feb 24 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":98,
+    "home":"Utah Jazz",
+    "home points":110
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":107,
+    "home":"Atlanta Hawks",
+    "home points":103
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":99,
+    "home":"Cleveland Cavaliers",
+    "home points":93
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":100,
+    "home":"Denver Nuggets",
+    "home points":95
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":98,
+    "home":"Indiana Pacers",
+    "home points":118
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":110,
+    "home":"Phoenix Suns",
+    "home points":101
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":129,
+    "home":"Sacramento Kings",
+    "home points":103
+  },
+  {
+    "date":"Tue Feb 25 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":106,
+    "home":"Washington Wizards",
+    "home points":115
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":104,
+    "home":"Boston Celtics",
+    "home points":115
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":83,
+    "home":"Chicago Bulls",
+    "home points":103
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":89,
+    "home":"Dallas Mavericks",
+    "home points":108
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":93,
+    "home":"Los Angeles Clippers",
+    "home points":101
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":103,
+    "home":"Memphis Grizzlies",
+    "home points":108
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":114,
+    "home":"Oklahoma City Thunder",
+    "home points":104
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":101,
+    "home":"Philadelphia 76ers",
+    "home points":90
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":80,
+    "home":"Portland Trail Blazers",
+    "home points":124
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":110,
+    "home":"San Antonio Spurs",
+    "home points":120
+  },
+  {
+    "date":"Wed Feb 26 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":86,
+    "home":"Utah Jazz",
+    "home points":109
+  },
+  {
+    "date":"Thu Feb 27 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":112,
+    "home":"Denver Nuggets",
+    "home points":89
+  },
+  {
+    "date":"Thu Feb 27 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":96,
+    "home":"Indiana Pacers",
+    "home points":101
+  },
+  {
+    "date":"Thu Feb 27 2014",
+    "visitor":"New York Knicks",
+    "visitor points":82,
+    "home":"Miami Heat",
+    "home points":108
+  },
+  {
+    "date":"Thu Feb 27 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":134,
+    "home":"Toronto Raptors",
+    "home points":129
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":79,
+    "home":"Cleveland Cavaliers",
+    "home points":99
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":100,
+    "home":"Dallas Mavericks",
+    "home points":91
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":122,
+    "home":"Los Angeles Lakers",
+    "home points":126
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":126,
+    "home":"New York Knicks",
+    "home points":103
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":107,
+    "home":"Oklahoma City Thunder",
+    "home points":113
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":104,
+    "home":"Phoenix Suns",
+    "home points":116
+  },
+  {
+    "date":"Fri Feb 28 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":82,
+    "home":"San Antonio Spurs",
+    "home points":92
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":102,
+    "home":"Boston Celtics",
+    "home points":97
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":110,
+    "home":"Houston Rockets",
+    "home points":118
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":76,
+    "home":"Los Angeles Clippers",
+    "home points":108
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":96,
+    "home":"Memphis Grizzlies",
+    "home points":110
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":98,
+    "home":"Miami Heat",
+    "home points":112
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":107,
+    "home":"Milwaukee Bucks",
+    "home points":98
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":122,
+    "home":"Philadelphia 76ers",
+    "home points":103
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":96,
+    "home":"Portland Trail Blazers",
+    "home points":102
+  },
+  {
+    "date":"Sat Mar 1 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":108,
+    "home":"Sacramento Kings",
+    "home points":97
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"New York Knicks",
+    "visitor points":90,
+    "home":"Chicago Bulls",
+    "home points":109
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":91,
+    "home":"Indiana Pacers",
+    "home points":94
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":99,
+    "home":"Oklahoma City Thunder",
+    "home points":116
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":81,
+    "home":"Orlando Magic",
+    "home points":92
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":120,
+    "home":"Phoenix Suns",
+    "home points":129
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":106,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Sun Mar 2 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":98,
+    "home":"Toronto Raptors",
+    "home points":104
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":80,
+    "home":"Brooklyn Nets",
+    "home points":96
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":132,
+    "home":"Denver Nuggets",
+    "home points":128
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"New York Knicks",
+    "visitor points":85,
+    "home":"Detroit Pistons",
+    "home points":96
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":107,
+    "home":"Miami Heat",
+    "home points":124
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":88,
+    "home":"Milwaukee Bucks",
+    "home points":114
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":107,
+    "home":"Portland Trail Blazers",
+    "home points":106
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":89,
+    "home":"Sacramento Kings",
+    "home points":96
+  },
+  {
+    "date":"Mon Mar 3 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":110,
+    "home":"Washington Wizards",
+    "home points":104
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":122,
+    "home":"Cleveland Cavaliers",
+    "home points":101
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"Miami Heat",
+    "visitor points":103,
+    "home":"Houston Rockets",
+    "home points":106
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":98,
+    "home":"Indiana Pacers",
+    "home points":96
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":132,
+    "home":"Los Angeles Lakers",
+    "home points":125
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":92,
+    "home":"Oklahoma City Thunder",
+    "home points":125
+  },
+  {
+    "date":"Tue Mar 4 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":104,
+    "home":"Phoenix Suns",
+    "home points":96
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":108,
+    "home":"Boston Celtics",
+    "home points":88
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":94,
+    "home":"Brooklyn Nets",
+    "home points":103
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":87,
+    "home":"Charlotte Bobcats",
+    "home points":109
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":110,
+    "home":"Denver Nuggets",
+    "home points":115
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":105,
+    "home":"Detroit Pistons",
+    "home points":94
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":116,
+    "home":"Milwaukee Bucks",
+    "home points":102
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"New York Knicks",
+    "visitor points":118,
+    "home":"Minnesota Timberwolves",
+    "home points":106
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":101,
+    "home":"Orlando Magic",
+    "home points":89
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":78,
+    "home":"Portland Trail Blazers",
+    "home points":102
+  },
+  {
+    "date":"Wed Mar 5 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":91,
+    "home":"Washington Wizards",
+    "home points":104
+  },
+  {
+    "date":"Thu Mar 6 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":142,
+    "home":"Los Angeles Lakers",
+    "home points":94
+  },
+  {
+    "date":"Thu Mar 6 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":122,
+    "home":"Phoenix Suns",
+    "home points":128
+  },
+  {
+    "date":"Thu Mar 6 2014",
+    "visitor":"Miami Heat",
+    "visitor points":87,
+    "home":"San Antonio Spurs",
+    "home points":111
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":84,
+    "home":"Boston Celtics",
+    "home points":91
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":92,
+    "home":"Charlotte Bobcats",
+    "home points":101
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":85,
+    "home":"Chicago Bulls",
+    "home points":77
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":98,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":126,
+    "home":"Denver Nuggets",
+    "home points":134
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":97,
+    "home":"Golden State Warriors",
+    "home points":111
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":86,
+    "home":"Houston Rockets",
+    "home points":112
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":101,
+    "home":"Minnesota Timberwolves",
+    "home points":114
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":104,
+    "home":"New Orleans Pelicans",
+    "home points":112
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":81,
+    "home":"New York Knicks",
+    "home points":108
+  },
+  {
+    "date":"Fri Mar 7 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":87,
+    "home":"Toronto Raptors",
+    "home points":99
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"New York Knicks",
+    "visitor points":107,
+    "home":"Cleveland Cavaliers",
+    "home points":97
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":108,
+    "home":"Los Angeles Clippers",
+    "home points":109
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":89,
+    "home":"Memphis Grizzlies",
+    "home points":111
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":114,
+    "home":"Milwaukee Bucks",
+    "home points":107
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":104,
+    "home":"Philadelphia 76ers",
+    "home points":92
+  },
+  {
+    "date":"Sat Mar 8 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":112,
+    "home":"San Antonio Spurs",
+    "home points":121
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":111,
+    "home":"Boston Celtics",
+    "home points":118
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":89,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Miami Heat",
+    "visitor points":88,
+    "home":"Chicago Bulls",
+    "home points":95
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":94,
+    "home":"Dallas Mavericks",
+    "home points":105
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":107,
+    "home":"Golden State Warriors",
+    "home points":113
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":113,
+    "home":"Houston Rockets",
+    "home points":118
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":110,
+    "home":"Los Angeles Lakers",
+    "home points":114
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":111,
+    "home":"Minnesota Timberwolves",
+    "home points":104
+  },
+  {
+    "date":"Sun Mar 9 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":107,
+    "home":"New Orleans Pelicans",
+    "home points":111
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":97,
+    "home":"Brooklyn Nets",
+    "home points":101
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":98,
+    "home":"Charlotte Bobcats",
+    "home points":105
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":105,
+    "home":"Los Angeles Clippers",
+    "home points":112
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":90,
+    "home":"Miami Heat",
+    "home points":99
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":98,
+    "home":"Milwaukee Bucks",
+    "home points":105
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":110,
+    "home":"New York Knicks",
+    "home points":123
+  },
+  {
+    "date":"Mon Mar 10 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":112,
+    "home":"Utah Jazz",
+    "home points":110
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":104,
+    "home":"Chicago Bulls",
+    "home points":96
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":89,
+    "home":"Detroit Pistons",
+    "home points":99
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":85,
+    "home":"Golden State Warriors",
+    "home points":108
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":83,
+    "home":"Indiana Pacers",
+    "home points":94
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":99,
+    "home":"Memphis Grizzlies",
+    "home points":109
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":101,
+    "home":"Minnesota Timberwolves",
+    "home points":112
+  },
+  {
+    "date":"Tue Mar 11 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":98,
+    "home":"Oklahoma City Thunder",
+    "home points":106
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"New York Knicks",
+    "visitor points":116,
+    "home":"Boston Celtics",
+    "home points":92
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":98,
+    "home":"Los Angeles Clippers",
+    "home points":111
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":96,
+    "home":"Miami Heat",
+    "home points":95
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":90,
+    "home":"New Orleans Pelicans",
+    "home points":88
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":120,
+    "home":"Orlando Magic",
+    "home points":112
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":115,
+    "home":"Philadelphia 76ers",
+    "home points":98
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":110,
+    "home":"Phoenix Suns",
+    "home points":101
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":90,
+    "home":"San Antonio Spurs",
+    "home points":103
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":87,
+    "home":"Toronto Raptors",
+    "home points":101
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":108,
+    "home":"Utah Jazz",
+    "home points":101
+  },
+  {
+    "date":"Wed Mar 12 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":98,
+    "home":"Washington Wizards",
+    "home points":85
+  },
+  {
+    "date":"Thu Mar 13 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":97,
+    "home":"Atlanta Hawks",
+    "home points":102
+  },
+  {
+    "date":"Thu Mar 13 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":87,
+    "home":"Chicago Bulls",
+    "home points":111
+  },
+  {
+    "date":"Thu Mar 13 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":102,
+    "home":"Oklahoma City Thunder",
+    "home points":131
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":87,
+    "home":"Boston Celtics",
+    "home points":80
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":93,
+    "home":"Charlotte Bobcats",
+    "home points":105
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":103,
+    "home":"Golden State Warriors",
+    "home points":94
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":111,
+    "home":"Miami Heat",
+    "home points":107
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":111,
+    "home":"New Orleans Pelicans",
+    "home points":103
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":105,
+    "home":"Orlando Magic",
+    "home points":101
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":101,
+    "home":"Philadelphia 76ers",
+    "home points":94
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":85,
+    "home":"San Antonio Spurs",
+    "home points":119
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":86,
+    "home":"Toronto Raptors",
+    "home points":99
+  },
+  {
+    "date":"Fri Mar 14 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":96,
+    "home":"Utah Jazz",
+    "home points":87
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":92,
+    "home":"Atlanta Hawks",
+    "home points":97
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":87,
+    "home":"Chicago Bulls",
+    "home points":94
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":112,
+    "home":"Detroit Pistons",
+    "home points":104
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":94,
+    "home":"New York Knicks",
+    "home points":115
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":103,
+    "home":"Philadelphia 76ers",
+    "home points":77
+  },
+  {
+    "date":"Sat Mar 15 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":94,
+    "home":"Washington Wizards",
+    "home points":101
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":80,
+    "home":"Los Angeles Clippers",
+    "home points":102
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":104,
+    "home":"Miami Heat",
+    "home points":113
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":101,
+    "home":"Milwaukee Bucks",
+    "home points":92
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":102,
+    "home":"Minnesota Timberwolves",
+    "home points":104
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":120,
+    "home":"New Orleans Pelicans",
+    "home points":121
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":109,
+    "home":"Oklahoma City Thunder",
+    "home points":86
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":113,
+    "home":"Portland Trail Blazers",
+    "home points":112
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":104,
+    "home":"San Antonio Spurs",
+    "home points":122
+  },
+  {
+    "date":"Sun Mar 16 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":121,
+    "home":"Toronto Raptors",
+    "home points":113
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":95,
+    "home":"Brooklyn Nets",
+    "home points":108
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":97,
+    "home":"Charlotte Bobcats",
+    "home points":83
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":97,
+    "home":"Chicago Bulls",
+    "home points":85
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":89,
+    "home":"Dallas Mavericks",
+    "home points":94
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":100,
+    "home":"Denver Nuggets",
+    "home points":110
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":86,
+    "home":"Houston Rockets",
+    "home points":124
+  },
+  {
+    "date":"Mon Mar 17 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":90,
+    "home":"Indiana Pacers",
+    "home points":99
+  },
+  {
+    "date":"Tue Mar 18 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":113,
+    "home":"Atlanta Hawks",
+    "home points":118
+  },
+  {
+    "date":"Tue Mar 18 2014",
+    "visitor":"Miami Heat",
+    "visitor points":100,
+    "home":"Cleveland Cavaliers",
+    "home points":96
+  },
+  {
+    "date":"Tue Mar 18 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":89,
+    "home":"Golden State Warriors",
+    "home points":103
+  },
+  {
+    "date":"Tue Mar 18 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":115,
+    "home":"Portland Trail Blazers",
+    "home points":120
+  },
+  {
+    "date":"Tue Mar 18 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":111,
+    "home":"Sacramento Kings",
+    "home points":117
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Miami Heat",
+    "visitor points":96,
+    "home":"Boston Celtics",
+    "home points":101
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":99,
+    "home":"Brooklyn Nets",
+    "home points":104
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":123,
+    "home":"Dallas Mavericks",
+    "home points":122
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":109,
+    "home":"Denver Nuggets",
+    "home points":118
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":125,
+    "home":"Los Angeles Lakers",
+    "home points":109
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":86,
+    "home":"Memphis Grizzlies",
+    "home points":96
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":107,
+    "home":"New Orleans Pelicans",
+    "home points":100
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":86,
+    "home":"New York Knicks",
+    "home points":92
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":102,
+    "home":"Philadelphia 76ers",
+    "home points":94
+  },
+  {
+    "date":"Wed Mar 19 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":93,
+    "home":"Phoenix Suns",
+    "home points":109
+  },
+  {
+    "date":"Thu Mar 20 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":102,
+    "home":"Cleveland Cavaliers",
+    "home points":95
+  },
+  {
+    "date":"Thu Mar 20 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":110,
+    "home":"Golden State Warriors",
+    "home points":115
+  },
+  {
+    "date":"Thu Mar 20 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":106,
+    "home":"Houston Rockets",
+    "home points":129
+  },
+  {
+    "date":"Thu Mar 20 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":103,
+    "home":"Portland Trail Blazers",
+    "home points":116
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":111,
+    "home":"Atlanta Hawks",
+    "home points":105
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":98,
+    "home":"Brooklyn Nets",
+    "home points":114
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":106,
+    "home":"Dallas Mavericks",
+    "home points":122
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":79,
+    "home":"Indiana Pacers",
+    "home points":91
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":117,
+    "home":"Los Angeles Lakers",
+    "home points":107
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":86,
+    "home":"Miami Heat",
+    "home points":91
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"New York Knicks",
+    "visitor points":93,
+    "home":"Philadelphia 76ers",
+    "home points":92
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":92,
+    "home":"Phoenix Suns",
+    "home points":98
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":99,
+    "home":"Sacramento Kings",
+    "home points":79
+  },
+  {
+    "date":"Fri Mar 21 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":119,
+    "home":"Toronto Raptors",
+    "home points":118
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":94,
+    "home":"Charlotte Bobcats",
+    "home points":124
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":81,
+    "home":"Chicago Bulls",
+    "home points":91
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":118,
+    "home":"Cleveland Cavaliers",
+    "home points":111
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":99,
+    "home":"Golden State Warriors",
+    "home points":90
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":103,
+    "home":"Los Angeles Clippers",
+    "home points":112
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":71,
+    "home":"Memphis Grizzlies",
+    "home points":82
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Miami Heat",
+    "visitor points":95,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Sat Mar 22 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":88,
+    "home":"Utah Jazz",
+    "home points":89
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":107,
+    "home":"Dallas Mavericks",
+    "home points":104
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":102,
+    "home":"Denver Nuggets",
+    "home points":105
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":94,
+    "home":"Los Angeles Lakers",
+    "home points":103
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":127,
+    "home":"Minnesota Timberwolves",
+    "home points":120
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":106,
+    "home":"New York Knicks",
+    "home points":100
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":107,
+    "home":"Sacramento Kings",
+    "home points":124
+  },
+  {
+    "date":"Sun Mar 23 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":86,
+    "home":"Toronto Raptors",
+    "home points":96
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":102,
+    "home":"Atlanta Hawks",
+    "home points":95
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":100,
+    "home":"Charlotte Bobcats",
+    "home points":89
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":77,
+    "home":"Chicago Bulls",
+    "home points":89
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":98,
+    "home":"Los Angeles Clippers",
+    "home points":106
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":92,
+    "home":"Memphis Grizzlies",
+    "home points":109
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":91,
+    "home":"Miami Heat",
+    "home points":93
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":104,
+    "home":"New Orleans Pelicans",
+    "home points":109
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":96,
+    "home":"Oklahoma City Thunder",
+    "home points":117
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":91,
+    "home":"San Antonio Spurs",
+    "home points":113
+  },
+  {
+    "date":"Mon Mar 24 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":114,
+    "home":"Utah Jazz",
+    "home points":94
+  },
+  {
+    "date":"Tue Mar 25 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":100,
+    "home":"Cleveland Cavaliers",
+    "home points":102
+  },
+  {
+    "date":"Tue Mar 25 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":119,
+    "home":"Dallas Mavericks",
+    "home points":128
+  },
+  {
+    "date":"Tue Mar 25 2014",
+    "visitor":"New York Knicks",
+    "visitor points":96,
+    "home":"Los Angeles Lakers",
+    "home points":127
+  },
+  {
+    "date":"Tue Mar 25 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":85,
+    "home":"Orlando Magic",
+    "home points":95
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":99,
+    "home":"Boston Celtics",
+    "home points":90
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":111,
+    "home":"Charlotte Bobcats",
+    "home points":116
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":97,
+    "home":"Detroit Pistons",
+    "home points":96
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Miami Heat",
+    "visitor points":83,
+    "home":"Indiana Pacers",
+    "home points":84
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":83,
+    "home":"Minnesota Timberwolves",
+    "home points":107
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":96,
+    "home":"New Orleans Pelicans",
+    "home points":98
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"New York Knicks",
+    "visitor points":107,
+    "home":"Sacramento Kings",
+    "home points":99
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":103,
+    "home":"San Antonio Spurs",
+    "home points":108
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":91,
+    "home":"Utah Jazz",
+    "home points":87
+  },
+  {
+    "date":"Wed Mar 26 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":99,
+    "home":"Washington Wizards",
+    "home points":93
+  },
+  {
+    "date":"Thu Mar 27 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":100,
+    "home":"Atlanta Hawks",
+    "home points":85
+  },
+  {
+    "date":"Thu Mar 27 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":109,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Thu Mar 27 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":98,
+    "home":"Houston Rockets",
+    "home points":120
+  },
+  {
+    "date":"Thu Mar 27 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":105,
+    "home":"Milwaukee Bucks",
+    "home points":108
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":97,
+    "home":"Brooklyn Nets",
+    "home points":108
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":91,
+    "home":"Chicago Bulls",
+    "home points":74
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":133,
+    "home":"Denver Nuggets",
+    "home points":102
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Miami Heat",
+    "visitor points":110,
+    "home":"Detroit Pistons",
+    "home points":78
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":93,
+    "home":"Golden State Warriors",
+    "home points":100
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":107,
+    "home":"Minnesota Timberwolves",
+    "home points":143
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":95,
+    "home":"New Orleans Pelicans",
+    "home points":102
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":81,
+    "home":"Oklahoma City Thunder",
+    "home points":94
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":105,
+    "home":"Orlando Magic",
+    "home points":110
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"New York Knicks",
+    "visitor points":88,
+    "home":"Phoenix Suns",
+    "home points":112
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":103,
+    "home":"Toronto Raptors",
+    "home points":105
+  },
+  {
+    "date":"Fri Mar 28 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":78,
+    "home":"Washington Wizards",
+    "home points":91
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":100,
+    "home":"Dallas Mavericks",
+    "home points":103
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":118,
+    "home":"Houston Rockets",
+    "home points":107
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"Miami Heat",
+    "visitor points":88,
+    "home":"Milwaukee Bucks",
+    "home points":67
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":98,
+    "home":"Philadelphia 76ers",
+    "home points":123
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":80,
+    "home":"San Antonio Spurs",
+    "home points":96
+  },
+  {
+    "date":"Sat Mar 29 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":97,
+    "home":"Washington Wizards",
+    "home points":101
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":107,
+    "home":"Boston Celtics",
+    "home points":102
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":99,
+    "home":"Brooklyn Nets",
+    "home points":114
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":76,
+    "home":"Cleveland Cavaliers",
+    "home points":90
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"New York Knicks",
+    "visitor points":89,
+    "home":"Golden State Warriors",
+    "home points":84
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":99,
+    "home":"Los Angeles Lakers",
+    "home points":115
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":96,
+    "home":"Oklahoma City Thunder",
+    "home points":116
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":98,
+    "home":"Orlando Magic",
+    "home points":93
+  },
+  {
+    "date":"Sun Mar 30 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":98,
+    "home":"Portland Trail Blazers",
+    "home points":105
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":95,
+    "home":"Atlanta Hawks",
+    "home points":103
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":94,
+    "home":"Charlotte Bobcats",
+    "home points":100
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":80,
+    "home":"Chicago Bulls",
+    "home points":94
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":94,
+    "home":"Denver Nuggets",
+    "home points":92
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":111,
+    "home":"Detroit Pistons",
+    "home points":116
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":103,
+    "home":"Indiana Pacers",
+    "home points":77
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":83,
+    "home":"Miami Heat",
+    "home points":93
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":114,
+    "home":"Minnesota Timberwolves",
+    "home points":104
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":102,
+    "home":"New Orleans Pelicans",
+    "home points":97
+  },
+  {
+    "date":"Mon Mar 31 2014",
+    "visitor":"New York Knicks",
+    "visitor points":92,
+    "home":"Utah Jazz",
+    "home points":83
+  },
+  {
+    "date":"Tue Apr 1 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":96,
+    "home":"Brooklyn Nets",
+    "home points":105
+  },
+  {
+    "date":"Tue Apr 1 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":122,
+    "home":"Dallas Mavericks",
+    "home points":120
+  },
+  {
+    "date":"Tue Apr 1 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":124,
+    "home":"Los Angeles Lakers",
+    "home points":112
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":105,
+    "home":"Atlanta Hawks",
+    "home points":92
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":107,
+    "home":"Denver Nuggets",
+    "home points":137
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":94,
+    "home":"Indiana Pacers",
+    "home points":101
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":77,
+    "home":"Miami Heat",
+    "home points":96
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":88,
+    "home":"Minnesota Timberwolves",
+    "home points":102
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":81,
+    "home":"New York Knicks",
+    "home points":110
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":119,
+    "home":"Orlando Magic",
+    "home points":98
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":123,
+    "home":"Philadelphia 76ers",
+    "home points":93
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":112,
+    "home":"Phoenix Suns",
+    "home points":108
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":102,
+    "home":"Sacramento Kings",
+    "home points":107
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":90,
+    "home":"San Antonio Spurs",
+    "home points":111
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":103,
+    "home":"Toronto Raptors",
+    "home points":107
+  },
+  {
+    "date":"Wed Apr 2 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":92,
+    "home":"Washington Wizards",
+    "home points":118
+  },
+  {
+    "date":"Thu Apr 3 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":113,
+    "home":"Los Angeles Clippers",
+    "home points":107
+  },
+  {
+    "date":"Thu Apr 3 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":94,
+    "home":"Oklahoma City Thunder",
+    "home points":106
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":98,
+    "home":"Atlanta Hawks",
+    "home points":117
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":111,
+    "home":"Boston Celtics",
+    "home points":102
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":104,
+    "home":"Brooklyn Nets",
+    "home points":116
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":80,
+    "home":"Charlotte Bobcats",
+    "home points":91
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":90,
+    "home":"Chicago Bulls",
+    "home points":102
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":69,
+    "home":"Golden State Warriors",
+    "home points":102
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":107,
+    "home":"Houston Rockets",
+    "home points":111
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":107,
+    "home":"Los Angeles Lakers",
+    "home points":95
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":92,
+    "home":"Memphis Grizzlies",
+    "home points":100
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":122,
+    "home":"Miami Heat",
+    "home points":121
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":90,
+    "home":"New York Knicks",
+    "home points":89
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":109,
+    "home":"Portland Trail Blazers",
+    "home points":93
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":94,
+    "home":"Toronto Raptors",
+    "home points":102
+  },
+  {
+    "date":"Fri Apr 4 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":96,
+    "home":"Utah Jazz",
+    "home points":100
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":96,
+    "home":"Cleveland Cavaliers",
+    "home points":94
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":111,
+    "home":"Detroit Pistons",
+    "home points":115
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":102,
+    "home":"Milwaukee Bucks",
+    "home points":98
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":92,
+    "home":"Orlando Magic",
+    "home points":100
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":105,
+    "home":"Philadelphia 76ers",
+    "home points":101
+  },
+  {
+    "date":"Sat Apr 5 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":96,
+    "home":"Washington Wizards",
+    "home points":78
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":102,
+    "home":"Golden State Warriors",
+    "home points":130
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":125,
+    "home":"Houston Rockets",
+    "home points":130
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":107,
+    "home":"Indiana Pacers",
+    "home points":88
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":97,
+    "home":"Los Angeles Clippers",
+    "home points":120
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"New York Knicks",
+    "visitor points":91,
+    "home":"Miami Heat",
+    "home points":102
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":115,
+    "home":"Phoenix Suns",
+    "home points":122
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":94,
+    "home":"Portland Trail Blazers",
+    "home points":100
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":93,
+    "home":"Sacramento Kings",
+    "home points":91
+  },
+  {
+    "date":"Sun Apr 6 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":92,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":102,
+    "home":"Atlanta Hawks",
+    "home points":95
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":145,
+    "home":"Los Angeles Lakers",
+    "home points":130
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":88,
+    "home":"Miami Heat",
+    "home points":87
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":91,
+    "home":"Minnesota Timberwolves",
+    "home points":110
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":107,
+    "home":"Sacramento Kings",
+    "home points":92
+  },
+  {
+    "date":"Tue Apr 8 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":95,
+    "home":"Utah Jazz",
+    "home points":83
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":97,
+    "home":"Atlanta Hawks",
+    "home points":105
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":100,
+    "home":"Cleveland Cavaliers",
+    "home points":122
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":116,
+    "home":"Denver Nuggets",
+    "home points":123
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":107,
+    "home":"Los Angeles Clippers",
+    "home points":101
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Miami Heat",
+    "visitor points":102,
+    "home":"Memphis Grizzlies",
+    "home points":107
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":104,
+    "home":"Milwaukee Bucks",
+    "home points":102
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":102,
+    "home":"Minnesota Timberwolves",
+    "home points":87
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":94,
+    "home":"New Orleans Pelicans",
+    "home points":88
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":111,
+    "home":"Orlando Magic",
+    "home points":115
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":99,
+    "home":"Portland Trail Blazers",
+    "home points":100
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":114,
+    "home":"Toronto Raptors",
+    "home points":125
+  },
+  {
+    "date":"Wed Apr 9 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":94,
+    "home":"Washington Wizards",
+    "home points":88
+  },
+  {
+    "date":"Thu Apr 10 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":109,
+    "home":"Dallas Mavericks",
+    "home points":100
+  },
+  {
+    "date":"Thu Apr 10 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":100,
+    "home":"Golden State Warriors",
+    "home points":99
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":103,
+    "home":"Boston Celtics",
+    "home points":106
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":93,
+    "home":"Brooklyn Nets",
+    "home points":88
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":98,
+    "home":"Chicago Bulls",
+    "home points":106
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":112,
+    "home":"Los Angeles Lakers",
+    "home points":95
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":95,
+    "home":"Memphis Grizzlies",
+    "home points":117
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":86,
+    "home":"Miami Heat",
+    "home points":98
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Cleveland Cavaliers",
+    "visitor points":116,
+    "home":"Milwaukee Bucks",
+    "home points":119
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":110,
+    "home":"Minnesota Timberwolves",
+    "home points":112
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":94,
+    "home":"Oklahoma City Thunder",
+    "home points":116
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":96,
+    "home":"Orlando Magic",
+    "home points":86
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"San Antonio Spurs",
+    "home points":112
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"New York Knicks",
+    "visitor points":108,
+    "home":"Toronto Raptors",
+    "home points":100
+  },
+  {
+    "date":"Fri Apr 11 2014",
+    "visitor":"Portland Trail Blazers",
+    "visitor points":111,
+    "home":"Utah Jazz",
+    "home points":99
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Miami Heat",
+    "visitor points":85,
+    "home":"Atlanta Hawks",
+    "home points":98
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":105,
+    "home":"Charlotte Bobcats",
+    "home points":111
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":111,
+    "home":"Cleveland Cavaliers",
+    "home points":99
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":98,
+    "home":"Dallas Mavericks",
+    "home points":101
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":94,
+    "home":"Denver Nuggets",
+    "home points":101
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"New Orleans Pelicans",
+    "visitor points":104,
+    "home":"Houston Rockets",
+    "home points":111
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Sacramento Kings",
+    "visitor points":101,
+    "home":"Los Angeles Clippers",
+    "home points":117
+  },
+  {
+    "date":"Sat Apr 12 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":91,
+    "home":"Washington Wizards",
+    "home points":104
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":88,
+    "home":"Brooklyn Nets",
+    "home points":97
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":116,
+    "home":"Detroit Pistons",
+    "home points":107
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":97,
+    "home":"Indiana Pacers",
+    "home points":102
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":102,
+    "home":"Los Angeles Lakers",
+    "home points":90
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":89,
+    "home":"New York Knicks",
+    "home points":100
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":117,
+    "home":"Portland Trail Blazers",
+    "home points":119
+  },
+  {
+    "date":"Sun Apr 13 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":103,
+    "home":"Sacramento Kings",
+    "home points":106
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Charlotte Bobcats",
+    "visitor points":95,
+    "home":"Atlanta Hawks",
+    "home points":93
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Orlando Magic",
+    "visitor points":95,
+    "home":"Chicago Bulls",
+    "home points":108
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Minnesota Timberwolves",
+    "visitor points":120,
+    "home":"Golden State Warriors",
+    "home points":130
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"San Antonio Spurs",
+    "visitor points":98,
+    "home":"Houston Rockets",
+    "home points":104
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Oklahoma City Thunder",
+    "visitor points":89,
+    "home":"New Orleans Pelicans",
+    "home points":101
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Boston Celtics",
+    "visitor points":108,
+    "home":"Philadelphia 76ers",
+    "home points":113
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Memphis Grizzlies",
+    "visitor points":97,
+    "home":"Phoenix Suns",
+    "home points":91
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Milwaukee Bucks",
+    "visitor points":100,
+    "home":"Toronto Raptors",
+    "home points":110
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":119,
+    "home":"Utah Jazz",
+    "home points":104
+  },
+  {
+    "date":"Mon Apr 14 2014",
+    "visitor":"Miami Heat",
+    "visitor points":93,
+    "home":"Washington Wizards",
+    "home points":114
+  },
+  {
+    "date":"Tue Apr 15 2014",
+    "visitor":"New York Knicks",
+    "visitor points":109,
+    "home":"Brooklyn Nets",
+    "home points":98
+  },
+  {
+    "date":"Tue Apr 15 2014",
+    "visitor":"Denver Nuggets",
+    "visitor points":105,
+    "home":"Los Angeles Clippers",
+    "home points":117
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Washington Wizards",
+    "visitor points":118,
+    "home":"Boston Celtics",
+    "home points":102
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Chicago Bulls",
+    "visitor points":86,
+    "home":"Charlotte Bobcats",
+    "home points":91
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Brooklyn Nets",
+    "visitor points":85,
+    "home":"Cleveland Cavaliers",
+    "home points":114
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Golden State Warriors",
+    "visitor points":116,
+    "home":"Denver Nuggets",
+    "home points":112
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Dallas Mavericks",
+    "visitor points":105,
+    "home":"Memphis Grizzlies",
+    "home points":106
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Philadelphia 76ers",
+    "visitor points":100,
+    "home":"Miami Heat",
+    "home points":87
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Atlanta Hawks",
+    "visitor points":111,
+    "home":"Milwaukee Bucks",
+    "home points":103
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Utah Jazz",
+    "visitor points":136,
+    "home":"Minnesota Timberwolves",
+    "home points":130
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Houston Rockets",
+    "visitor points":100,
+    "home":"New Orleans Pelicans",
+    "home points":105
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Toronto Raptors",
+    "visitor points":92,
+    "home":"New York Knicks",
+    "home points":95
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Detroit Pistons",
+    "visitor points":111,
+    "home":"Oklahoma City Thunder",
+    "home points":112
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Indiana Pacers",
+    "visitor points":101,
+    "home":"Orlando Magic",
+    "home points":86
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Los Angeles Clippers",
+    "visitor points":104,
+    "home":"Portland Trail Blazers",
+    "home points":110
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Phoenix Suns",
+    "visitor points":104,
+    "home":"Sacramento Kings",
+    "home points":99
+  },
+  {
+    "date":"Wed Apr 16 2014",
+    "visitor":"Los Angeles Lakers",
+    "visitor points":113,
+    "home":"San Antonio Spurs",
+    "home points":100
+  }
+]
