@@ -22,7 +22,7 @@ $(document).ready(function () {
         });
     };
 
-    $.getJSON("/data.json", function(data) {
+    $.getJSON("/highcharts-datatables/data.json", function(data) {
 
         var byStartDT = _.partial(bydate, "date"),
             data      = data.sort(byStartDT),
